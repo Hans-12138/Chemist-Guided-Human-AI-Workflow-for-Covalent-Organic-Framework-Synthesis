@@ -80,7 +80,6 @@ export DASHSCOPE_API_KEY="your_dashscope_key"
 export GOOGLE_API_KEY="your_google_key"
 ```
 
-Do **not** commit real API keys to GitHub.
 
 
 ### 1. Initialize the workflow
