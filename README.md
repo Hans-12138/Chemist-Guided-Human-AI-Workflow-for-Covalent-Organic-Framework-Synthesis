@@ -1,4 +1,4 @@
-# Chemist-Guided Human-AI Workflow for Covalent Organic Framework Synthesis
+
 ![Framework](https://github.com/user-attachments/assets/91b57efc-c213-4939-9844-89c57c172689)
 
 This repository contains the code accompanying the JACS paper **“Chemist-Guided Human-AI Workflow for Covalent Organic Framework Synthesis.”**
