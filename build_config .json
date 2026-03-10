@@ -1,0 +1,17 @@
+{
+  "built_at": "2025-12-21T21:15:46",
+  "cof_data": "rag_database/cof_data.json",
+  "out_dir": "rag_database_v2",
+  "dim": 1024,
+  "embedding_model": "text-embedding-v3",
+  "accept_n": [
+    2,
+    3
+  ],
+  "faiss_available": true,
+  "faiss_import_error": null,
+  "stats": {
+    "set2_records": 2189,
+    "set3_records": 284
+  }
+}
