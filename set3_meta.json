@@ -1,0 +1,4262 @@
+[
+  {
+    "set_index_id": 0,
+    "row_id": 27,
+    "cof_name": "Ni-PCD@TD-COF",
+    "ligand_ids": [
+      38,
+      39,
+      40
+    ],
+    "ligand_names": [
+      "TD-COF",
+      "nickel 5,10,15,20-tetrakis(p-tetraphenylamino)porphyrin",
+      "glucose"
+    ]
+  },
+  {
+    "set_index_id": 1,
+    "row_id": 28,
+    "cof_name": "Co-PCD@TD-COF",
+    "ligand_ids": [
+      38,
+      41,
+      40
+    ],
+    "ligand_names": [
+      "TD-COF",
+      "cobalt 5,10,15,20-tetrakis(p-tetraphenylamino)porphyrin",
+      "glucose"
+    ]
+  },
+  {
+    "set_index_id": 2,
+    "row_id": 29,
+    "cof_name": "Fe-PCD@TD-COF",
+    "ligand_ids": [
+      38,
+      42,
+      40
+    ],
+    "ligand_names": [
+      "TD-COF",
+      "iron 5,10,15,20-tetrakis(p-tetraphenylamino)porphyrin",
+      "glucose"
+    ]
+  },
+  {
+    "set_index_id": 3,
+    "row_id": 59,
+    "cof_name": "AZO-2@CNT",
+    "ligand_ids": [
+      68,
+      69,
+      72
+    ],
+    "ligand_names": [
+      "1,3,5-triformylbenzene (TB)",
+      "4,4'-diazoanilidine (AZO-NH2)",
+      "Multi-walled carbon nanotube (CNT)"
+    ]
+  },
+  {
+    "set_index_id": 4,
+    "row_id": 65,
+    "cof_name": "TF50-COF",
+    "ligand_ids": [
+      77,
+      78,
+      79
+    ],
+    "ligand_names": [
+      "4,4',4''-(1,3,5-triazine-2,4,6-triyl)trianiline (TTA)",
+      "terephthalaldehyde (TA)",
+      "2,3,5,6-tetrafluoroterephthalaldehyde (TFTA)"
+    ]
+  },
+  {
+    "set_index_id": 5,
+    "row_id": 89,
+    "cof_name": "[HO]100%-H2P-COF",
+    "ligand_ids": [
+      103,
+      104,
+      105
+    ],
+    "ligand_names": [
+      "H2P (Free-base 5,10,15,20-tetrakis(p-tetraphenylamino) porphyrin)",
+      "DHTA (2,5-Dihydroxyterephthalaldehyde)",
+      "PA (1,4-phthalaldehyde)"
+    ]
+  },
+  {
+    "set_index_id": 6,
+    "row_id": 90,
+    "cof_name": "[HO]75%-H2P-COF",
+    "ligand_ids": [
+      103,
+      104,
+      105
+    ],
+    "ligand_names": [
+      "H2P (Free-base 5,10,15,20-tetrakis(p-tetraphenylamino) porphyrin)",
+      "DHTA (2,5-Dihydroxyterephthalaldehyde)",
+      "PA (1,4-phthalaldehyde)"
+    ]
+  },
+  {
+    "set_index_id": 7,
+    "row_id": 91,
+    "cof_name": "[HO]50%-H2P-COF",
+    "ligand_ids": [
+      103,
+      104,
+      105
+    ],
+    "ligand_names": [
+      "H2P (Free-base 5,10,15,20-tetrakis(p-tetraphenylamino) porphyrin)",
+      "DHTA (2,5-Dihydroxyterephthalaldehyde)",
+      "PA (1,4-phthalaldehyde)"
+    ]
+  },
+  {
+    "set_index_id": 8,
+    "row_id": 92,
+    "cof_name": "[HO]25%-H2P-COF",
+    "ligand_ids": [
+      103,
+      104,
+      105
+    ],
+    "ligand_names": [
+      "H2P (Free-base 5,10,15,20-tetrakis(p-tetraphenylamino) porphyrin)",
+      "DHTA (2,5-Dihydroxyterephthalaldehyde)",
+      "PA (1,4-phthalaldehyde)"
+    ]
+  },
+  {
+    "set_index_id": 9,
+    "row_id": 93,
+    "cof_name": "[HO2C]100%-H2P-COF",
+    "ligand_ids": [
+      103,
+      104,
+      105
+    ],
+    "ligand_names": [
+      "H2P (Free-base 5,10,15,20-tetrakis(p-tetraphenylamino) porphyrin)",
+      "DHTA (2,5-Dihydroxyterephthalaldehyde)",
+      "PA (1,4-phthalaldehyde)"
+    ]
+  },
+  {
+    "set_index_id": 10,
+    "row_id": 94,
+    "cof_name": "[HO2C]75%-H2P-COF",
+    "ligand_ids": [
+      103,
+      104,
+      105
+    ],
+    "ligand_names": [
+      "H2P (Free-base 5,10,15,20-tetrakis(p-tetraphenylamino) porphyrin)",
+      "DHTA (2,5-Dihydroxyterephthalaldehyde)",
+      "PA (1,4-phthalaldehyde)"
+    ]
+  },
+  {
+    "set_index_id": 11,
+    "row_id": 95,
+    "cof_name": "[HO2C]50%-H2P-COF",
+    "ligand_ids": [
+      103,
+      104,
+      105
+    ],
+    "ligand_names": [
+      "H2P (Free-base 5,10,15,20-tetrakis(p-tetraphenylamino) porphyrin)",
+      "DHTA (2,5-Dihydroxyterephthalaldehyde)",
+      "PA (1,4-phthalaldehyde)"
+    ]
+  },
+  {
+    "set_index_id": 12,
+    "row_id": 96,
+    "cof_name": "[HO2C]25%-H2P-COF",
+    "ligand_ids": [
+      103,
+      104,
+      105
+    ],
+    "ligand_names": [
+      "H2P (Free-base 5,10,15,20-tetrakis(p-tetraphenylamino) porphyrin)",
+      "DHTA (2,5-Dihydroxyterephthalaldehyde)",
+      "PA (1,4-phthalaldehyde)"
+    ]
+  },
+  {
+    "set_index_id": 13,
+    "row_id": 148,
+    "cof_name": "sp2c-COF@TFPPy-PDA-COF",
+    "ligand_ids": [
+      122,
+      120,
+      167
+    ],
+    "ligand_names": [
+      "TFPPy",
+      "PDAN",
+      "TFPPY-PDA-COF"
+    ]
+  },
+  {
+    "set_index_id": 14,
+    "row_id": 150,
+    "cof_name": "sp2c-COF-4@TPB-DMTP-COF",
+    "ligand_ids": [
+      168,
+      120,
+      169
+    ],
+    "ligand_names": [
+      "TFPB",
+      "PDAN",
+      "TPB-DMTP-COF"
+    ]
+  },
+  {
+    "set_index_id": 15,
+    "row_id": 154,
+    "cof_name": "sp2c-COF-5@ETTF-DABP-COF",
+    "ligand_ids": [
+      170,
+      172,
+      173
+    ],
+    "ligand_names": [
+      "ETTF",
+      "BPDAN",
+      "ETTF-DABP-COF"
+    ]
+  },
+  {
+    "set_index_id": 16,
+    "row_id": 231,
+    "cof_name": "TMHzcB-DMeOTA2/DHTA1-COF",
+    "ligand_ids": [
+      242,
+      246,
+      247
+    ],
+    "ligand_names": [
+      "TMHzcB",
+      "DMeOTA",
+      "DHTA"
+    ]
+  },
+  {
+    "set_index_id": 17,
+    "row_id": 232,
+    "cof_name": "TMHzcB-DMeOTA1/DHTA1-COF",
+    "ligand_ids": [
+      242,
+      246,
+      247
+    ],
+    "ligand_names": [
+      "TMHzcB",
+      "DMeOTA",
+      "DHTA"
+    ]
+  },
+  {
+    "set_index_id": 18,
+    "row_id": 233,
+    "cof_name": "TMHzcB-DMeOTA1/DHTA2-COF",
+    "ligand_ids": [
+      242,
+      246,
+      247
+    ],
+    "ligand_names": [
+      "TMHzcB",
+      "DMeOTA",
+      "DHTA"
+    ]
+  },
+  {
+    "set_index_id": 19,
+    "row_id": 234,
+    "cof_name": "TMHzcB-TA2/DHTA1-COF",
+    "ligand_ids": [
+      242,
+      165,
+      247
+    ],
+    "ligand_names": [
+      "TMHzcB",
+      "TA",
+      "DHTA"
+    ]
+  },
+  {
+    "set_index_id": 20,
+    "row_id": 247,
+    "cof_name": "COF-OH-0",
+    "ligand_ids": [
+      256,
+      257,
+      258
+    ],
+    "ligand_names": [
+      "2,4,6-Tri(4-aminophenyl)-1,3,5-triazine (TAPT)",
+      "2,5-dimethoxyterephthalaldehyde (DMTA)",
+      "2,5-dihydroxyterephthalaldehyde (DHTA)"
+    ]
+  },
+  {
+    "set_index_id": 21,
+    "row_id": 248,
+    "cof_name": "COF-OH-33",
+    "ligand_ids": [
+      256,
+      257,
+      258
+    ],
+    "ligand_names": [
+      "2,4,6-Tri(4-aminophenyl)-1,3,5-triazine (TAPT)",
+      "2,5-dimethoxyterephthalaldehyde (DMTA)",
+      "2,5-dihydroxyterephthalaldehyde (DHTA)"
+    ]
+  },
+  {
+    "set_index_id": 22,
+    "row_id": 249,
+    "cof_name": "COF-OH-50",
+    "ligand_ids": [
+      256,
+      257,
+      258
+    ],
+    "ligand_names": [
+      "2,4,6-Tri(4-aminophenyl)-1,3,5-triazine (TAPT)",
+      "2,5-dimethoxyterephthalaldehyde (DMTA)",
+      "2,5-dihydroxyterephthalaldehyde (DHTA)"
+    ]
+  },
+  {
+    "set_index_id": 23,
+    "row_id": 250,
+    "cof_name": "COF-OH-67",
+    "ligand_ids": [
+      256,
+      257,
+      258
+    ],
+    "ligand_names": [
+      "2,4,6-Tri(4-aminophenyl)-1,3,5-triazine (TAPT)",
+      "2,5-dimethoxyterephthalaldehyde (DMTA)",
+      "2,5-dihydroxyterephthalaldehyde (DHTA)"
+    ]
+  },
+  {
+    "set_index_id": 24,
+    "row_id": 251,
+    "cof_name": "COF-OH-100",
+    "ligand_ids": [
+      256,
+      257,
+      258
+    ],
+    "ligand_names": [
+      "2,4,6-Tri(4-aminophenyl)-1,3,5-triazine (TAPT)",
+      "2,5-dimethoxyterephthalaldehyde (DMTA)",
+      "2,5-dihydroxyterephthalaldehyde (DHTA)"
+    ]
+  },
+  {
+    "set_index_id": 25,
+    "row_id": 252,
+    "cof_name": "iCOF-AB-33",
+    "ligand_ids": [
+      259,
+      260,
+      261
+    ],
+    "ligand_names": [
+      "COF-OH-33",
+      "(2-bromoethyl)trimethylammonium bromide (AB)",
+      "K2CO3"
+    ]
+  },
+  {
+    "set_index_id": 26,
+    "row_id": 253,
+    "cof_name": "iCOF-AB-50",
+    "ligand_ids": [
+      262,
+      260,
+      261
+    ],
+    "ligand_names": [
+      "COF-OH-50",
+      "(2-bromoethyl)trimethylammonium bromide (AB)",
+      "K2CO3"
+    ]
+  },
+  {
+    "set_index_id": 27,
+    "row_id": 254,
+    "cof_name": "iCOF-AB-67",
+    "ligand_ids": [
+      263,
+      260,
+      261
+    ],
+    "ligand_names": [
+      "COF-OH-67",
+      "(2-bromoethyl)trimethylammonium bromide (AB)",
+      "K2CO3"
+    ]
+  },
+  {
+    "set_index_id": 28,
+    "row_id": 255,
+    "cof_name": "iCOF-AB-100",
+    "ligand_ids": [
+      264,
+      260,
+      261
+    ],
+    "ligand_names": [
+      "COF-OH-100",
+      "(2-bromoethyl)trimethylammonium bromide (AB)",
+      "K2CO3"
+    ]
+  },
+  {
+    "set_index_id": 29,
+    "row_id": 256,
+    "cof_name": "TAPT-DATA-DMTA-50",
+    "ligand_ids": [
+      256,
+      257,
+      265
+    ],
+    "ligand_names": [
+      "2,4,6-Tri(4-aminophenyl)-1,3,5-triazine (TAPT)",
+      "2,5-dimethoxyterephthalaldehyde (DMTA)",
+      "DATA"
+    ]
+  },
+  {
+    "set_index_id": 30,
+    "row_id": 301,
+    "cof_name": "PD2+-COF16.7",
+    "ligand_ids": [
+      77,
+      305,
+      306
+    ],
+    "ligand_names": [
+      "4,4',4''-(1,3,5-triazine-2,4,6-triyl)trianiline (TTA)",
+      "1,10-phenanthroline-5,6-dione (PD)",
+      "PD2+"
+    ]
+  },
+  {
+    "set_index_id": 31,
+    "row_id": 302,
+    "cof_name": "PD2+-COF33.3",
+    "ligand_ids": [
+      77,
+      305,
+      306
+    ],
+    "ligand_names": [
+      "4,4',4''-(1,3,5-triazine-2,4,6-triyl)trianiline (TTA)",
+      "1,10-phenanthroline-5,6-dione (PD)",
+      "PD2+"
+    ]
+  },
+  {
+    "set_index_id": 32,
+    "row_id": 318,
+    "cof_name": "FS-OHOME-COF",
+    "ligand_ids": [
+      317,
+      319,
+      318
+    ],
+    "ligand_names": [
+      "FSA",
+      "TpOMe",
+      "TpOH"
+    ]
+  },
+  {
+    "set_index_id": 33,
+    "row_id": 408,
+    "cof_name": "[(BPyDC)]25%-ETTA COF",
+    "ligand_ids": [
+      400,
+      402,
+      401
+    ],
+    "ligand_names": [
+      "4,4',4\",4\"-(ethene-1,1,2,2-tetrayl)tetraaniline (ETTA)",
+      "2,2'-bipyridyl-5,5′-dialdehyde (2,2'-BPyDCA)",
+      "4,4'-biphenyldialdehyde (4,4'-BPhDCA)"
+    ]
+  },
+  {
+    "set_index_id": 34,
+    "row_id": 409,
+    "cof_name": "[(BPyDC)]50%-ETTA COF",
+    "ligand_ids": [
+      400,
+      402,
+      401
+    ],
+    "ligand_names": [
+      "4,4',4\",4\"-(ethene-1,1,2,2-tetrayl)tetraaniline (ETTA)",
+      "2,2'-bipyridyl-5,5′-dialdehyde (2,2'-BPyDCA)",
+      "4,4'-biphenyldialdehyde (4,4'-BPhDCA)"
+    ]
+  },
+  {
+    "set_index_id": 35,
+    "row_id": 410,
+    "cof_name": "[(BPyDC)]75%-ETTA COF",
+    "ligand_ids": [
+      400,
+      402,
+      401
+    ],
+    "ligand_names": [
+      "4,4',4\",4\"-(ethene-1,1,2,2-tetrayl)tetraaniline (ETTA)",
+      "2,2'-bipyridyl-5,5′-dialdehyde (2,2'-BPyDCA)",
+      "4,4'-biphenyldialdehyde (4,4'-BPhDCA)"
+    ]
+  },
+  {
+    "set_index_id": 36,
+    "row_id": 417,
+    "cof_name": "JUC-556-[HZ]0.25 (E)",
+    "ligand_ids": [
+      407,
+      408,
+      409
+    ],
+    "ligand_names": [
+      "TFPA",
+      "HZ (E)",
+      "DABP"
+    ]
+  },
+  {
+    "set_index_id": 37,
+    "row_id": 418,
+    "cof_name": "JUC-556-[HZ]0.50 (E)",
+    "ligand_ids": [
+      407,
+      408,
+      409
+    ],
+    "ligand_names": [
+      "TFPA",
+      "HZ (E)",
+      "DABP"
+    ]
+  },
+  {
+    "set_index_id": 38,
+    "row_id": 419,
+    "cof_name": "JUC-556-[HZ]0.75 (E)",
+    "ligand_ids": [
+      407,
+      408,
+      409
+    ],
+    "ligand_names": [
+      "TFPA",
+      "HZ (E)",
+      "DABP"
+    ]
+  },
+  {
+    "set_index_id": 39,
+    "row_id": 436,
+    "cof_name": "TpTt-COF/MS",
+    "ligand_ids": [
+      2,
+      420,
+      422
+    ],
+    "ligand_names": [
+      "2,4,6-triformylphloroglucinol",
+      "melamine",
+      "Melamine Sponge (MS)"
+    ]
+  },
+  {
+    "set_index_id": 40,
+    "row_id": 478,
+    "cof_name": "Q-COF-T",
+    "ligand_ids": [
+      462,
+      463,
+      464
+    ],
+    "ligand_names": [
+      "I-COF-T",
+      "3,4-Dimethoxyphenylacetylene",
+      "Chloranil"
+    ]
+  },
+  {
+    "set_index_id": 41,
+    "row_id": 479,
+    "cof_name": "Q-COF-B",
+    "ligand_ids": [
+      465,
+      463,
+      464
+    ],
+    "ligand_names": [
+      "I-COF-B",
+      "3,4-Dimethoxyphenylacetylene",
+      "Chloranil"
+    ]
+  },
+  {
+    "set_index_id": 42,
+    "row_id": 489,
+    "cof_name": "TDB-COF",
+    "ligand_ids": [
+      475,
+      476,
+      477
+    ],
+    "ligand_names": [
+      "4,4',4''-(1,3,5-triazine-2,4,6-triyl)tribenzaldehyde (TFPT)",
+      "2,5-bis(2-(ethylthio)ethoxy)terephthalohydrazide (BETH)",
+      "2,5-diethoxyterephthalohydrazide (DETH)"
+    ]
+  },
+  {
+    "set_index_id": 43,
+    "row_id": 491,
+    "cof_name": "TTD-COF",
+    "ligand_ids": [
+      475,
+      476,
+      477
+    ],
+    "ligand_names": [
+      "4,4',4''-(1,3,5-triazine-2,4,6-triyl)tribenzaldehyde (TFPT)",
+      "2,5-bis(2-(ethylthio)ethoxy)terephthalohydrazide (BETH)",
+      "2,5-diethoxyterephthalohydrazide (DETH)"
+    ]
+  },
+  {
+    "set_index_id": 44,
+    "row_id": 505,
+    "cof_name": "CN90-COF",
+    "ligand_ids": [
+      488,
+      198,
+      489
+    ],
+    "ligand_names": [
+      "2,4,6-tris(4-formylphenyl)-1,3,5-triazine",
+      "p-phenylenediamine",
+      "2,5-diaminobenzonitrile"
+    ]
+  },
+  {
+    "set_index_id": 45,
+    "row_id": 506,
+    "cof_name": "CN83.3-COF",
+    "ligand_ids": [
+      488,
+      198,
+      489
+    ],
+    "ligand_names": [
+      "2,4,6-tris(4-formylphenyl)-1,3,5-triazine",
+      "p-phenylenediamine",
+      "2,5-diaminobenzonitrile"
+    ]
+  },
+  {
+    "set_index_id": 46,
+    "row_id": 524,
+    "cof_name": "Tz-Dha-H",
+    "ligand_ids": [
+      504,
+      505,
+      506
+    ],
+    "ligand_names": [
+      "Tz (1,3,5-tris-(4-aminophenyl)triazine)",
+      "Dha (2,5-Dihydroxyterephthalaldehyde)",
+      "pyruvic acid"
+    ]
+  },
+  {
+    "set_index_id": 47,
+    "row_id": 543,
+    "cof_name": "TpPa-(SO3H-Py)",
+    "ligand_ids": [
+      33,
+      524,
+      525
+    ],
+    "ligand_names": [
+      "1,3,5-triformylphloroglucinol (Tp)",
+      "2,5-diaminobenzenesulfonic acid (Pa-SO3H)",
+      "2,5-diaminopyridine (Pa-Py)"
+    ]
+  },
+  {
+    "set_index_id": 48,
+    "row_id": 552,
+    "cof_name": "COF-HCoTBD",
+    "ligand_ids": [
+      534,
+      535,
+      536
+    ],
+    "ligand_names": [
+      "TAPP",
+      "Co-TAPP",
+      "BD"
+    ]
+  },
+  {
+    "set_index_id": 49,
+    "row_id": 553,
+    "cof_name": "COF-HCuTBD",
+    "ligand_ids": [
+      534,
+      537,
+      536
+    ],
+    "ligand_names": [
+      "TAPP",
+      "Cu-TAPP",
+      "BD"
+    ]
+  },
+  {
+    "set_index_id": 50,
+    "row_id": 554,
+    "cof_name": "COF-HFeTBD",
+    "ligand_ids": [
+      534,
+      538,
+      536
+    ],
+    "ligand_names": [
+      "TAPP",
+      "Fe-TAPP",
+      "BD"
+    ]
+  },
+  {
+    "set_index_id": 51,
+    "row_id": 585,
+    "cof_name": "NP5-AM-COF",
+    "ligand_ids": [
+      555,
+      556,
+      557
+    ],
+    "ligand_names": [
+      "TF",
+      "DTP",
+      "NP5"
+    ]
+  },
+  {
+    "set_index_id": 52,
+    "row_id": 586,
+    "cof_name": "NP5-DM-COF",
+    "ligand_ids": [
+      555,
+      556,
+      557
+    ],
+    "ligand_names": [
+      "TF",
+      "DTP",
+      "NP5"
+    ]
+  },
+  {
+    "set_index_id": 53,
+    "row_id": 587,
+    "cof_name": "NP5-TM-COF",
+    "ligand_ids": [
+      555,
+      556,
+      557
+    ],
+    "ligand_names": [
+      "TF",
+      "DTP",
+      "NP5"
+    ]
+  },
+  {
+    "set_index_id": 54,
+    "row_id": 634,
+    "cof_name": "COF-PI-1",
+    "ligand_ids": [
+      523,
+      582,
+      583
+    ],
+    "ligand_names": [
+      "Dha",
+      "Tph",
+      "Bim-Br"
+    ]
+  },
+  {
+    "set_index_id": 55,
+    "row_id": 640,
+    "cof_name": "COF-IM",
+    "ligand_ids": [
+      590,
+      591,
+      592
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-aminophenyl)benzene (TAPB)",
+      "2,5-dimethoxy terephthalaldehyde (DMTPA)",
+      "1-vinylimidazole (VIM)"
+    ]
+  },
+  {
+    "set_index_id": 56,
+    "row_id": 679,
+    "cof_name": "TpBD-3COOH",
+    "ligand_ids": [
+      33,
+      625,
+      626
+    ],
+    "ligand_names": [
+      "1,3,5-Triformylphloroglucinol (Tp)",
+      "Biphenyl diamine (BD)",
+      "4,4'-diamino-[1,1'-biphenyl]-2,2'-dicarboxylic acid (DBd)"
+    ]
+  },
+  {
+    "set_index_id": 57,
+    "row_id": 706,
+    "cof_name": "[OH]x%-TD-COFs (x = 0, 25, 50, 75, 100)",
+    "ligand_ids": [
+      648,
+      649,
+      650
+    ],
+    "ligand_names": [
+      "TAPB (1,3,5-Tri(4-aminophenyl) benzene)",
+      "DHPA (2,5-dihydroxyterephthalaldehyde)",
+      "DMTA (2,5-dimethoxyterephthalaldehyde)"
+    ]
+  },
+  {
+    "set_index_id": 58,
+    "row_id": 707,
+    "cof_name": "[BE]x%-TD-COFs (x = 25, 50, 75, 100)",
+    "ligand_ids": [
+      651,
+      652,
+      261
+    ],
+    "ligand_names": [
+      "[OH]x%-TD-COF",
+      "BE (2-((3-bromopropyl)dimethylammonio)acetate)",
+      "K2CO3"
+    ]
+  },
+  {
+    "set_index_id": 59,
+    "row_id": 712,
+    "cof_name": "BTZ-BCA-COF",
+    "ligand_ids": [
+      659,
+      660,
+      661
+    ],
+    "ligand_names": [
+      "4,4',4\"-(1,3,5-triazine-2,4,6-triyl)trianiline (Tt)",
+      "Benzene-1,3,5-tricarbaldehyde (BCA)",
+      "Sulphur (S8)"
+    ]
+  },
+  {
+    "set_index_id": 60,
+    "row_id": 713,
+    "cof_name": "BTZ-TPA-COF",
+    "ligand_ids": [
+      659,
+      662,
+      661
+    ],
+    "ligand_names": [
+      "4,4',4\"-(1,3,5-triazine-2,4,6-triyl)trianiline (Tt)",
+      "Tris(4-formylphenyl) amine (TPA)",
+      "Sulphur (S8)"
+    ]
+  },
+  {
+    "set_index_id": 61,
+    "row_id": 788,
+    "cof_name": "CuP-TFPh25 COF",
+    "ligand_ids": [
+      731,
+      78,
+      79
+    ],
+    "ligand_names": [
+      "Copper 5,10,15,20-tetrakis(p-tetraphenylamino)porphyrin (CuP)",
+      "Terephthalaldehyde (TA)",
+      "2,3,5,6-Tetrafluoroterephthalaldehyde (TFTA)"
+    ]
+  },
+  {
+    "set_index_id": 62,
+    "row_id": 789,
+    "cof_name": "CuP-TFPh50 COF",
+    "ligand_ids": [
+      731,
+      78,
+      79
+    ],
+    "ligand_names": [
+      "Copper 5,10,15,20-tetrakis(p-tetraphenylamino)porphyrin (CuP)",
+      "Terephthalaldehyde (TA)",
+      "2,3,5,6-Tetrafluoroterephthalaldehyde (TFTA)"
+    ]
+  },
+  {
+    "set_index_id": 63,
+    "row_id": 790,
+    "cof_name": "CuP-TFPh75 COF",
+    "ligand_ids": [
+      731,
+      78,
+      79
+    ],
+    "ligand_names": [
+      "Copper 5,10,15,20-tetrakis(p-tetraphenylamino)porphyrin (CuP)",
+      "Terephthalaldehyde (TA)",
+      "2,3,5,6-Tetrafluoroterephthalaldehyde (TFTA)"
+    ]
+  },
+  {
+    "set_index_id": 64,
+    "row_id": 819,
+    "cof_name": "NTU-COF-2",
+    "ligand_ids": [
+      750,
+      124,
+      519
+    ],
+    "ligand_names": [
+      "FPBA",
+      "TAPB",
+      "HHTP"
+    ]
+  },
+  {
+    "set_index_id": 65,
+    "row_id": 820,
+    "cof_name": "PDA-FPBA-HHTP COF",
+    "ligand_ids": [
+      750,
+      166,
+      519
+    ],
+    "ligand_names": [
+      "FPBA",
+      "PDA",
+      "HHTP"
+    ]
+  },
+  {
+    "set_index_id": 66,
+    "row_id": 826,
+    "cof_name": "ATNT-4",
+    "ligand_ids": [
+      459,
+      754,
+      755
+    ],
+    "ligand_names": [
+      "THTA",
+      "BDA",
+      "NH2-Ti3C2Tx"
+    ]
+  },
+  {
+    "set_index_id": 67,
+    "row_id": 827,
+    "cof_name": "ATNT-2-HB",
+    "ligand_ids": [
+      459,
+      754,
+      756
+    ],
+    "ligand_names": [
+      "THTA",
+      "BDA",
+      "Ti3C2Tx"
+    ]
+  },
+  {
+    "set_index_id": 68,
+    "row_id": 828,
+    "cof_name": "COF-Tp-BDDA/NT",
+    "ligand_ids": [
+      746,
+      757,
+      755
+    ],
+    "ligand_names": [
+      "triformylphloroglucinol (Tp)",
+      "4,4'-(buta-1,3-diyne-1,4-diyl)dianiline (BDDA)",
+      "NH2-Ti3C2Tx"
+    ]
+  },
+  {
+    "set_index_id": 69,
+    "row_id": 829,
+    "cof_name": "COF-Tp-TAT/NT",
+    "ligand_ids": [
+      746,
+      758,
+      755
+    ],
+    "ligand_names": [
+      "triformylphloroglucinol (Tp)",
+      "1,3,5-tris(4'-aminophenyl)triazine (TAT)",
+      "NH2-Ti3C2Tx"
+    ]
+  },
+  {
+    "set_index_id": 70,
+    "row_id": 830,
+    "cof_name": "FS-COF/NT",
+    "ligand_ids": [
+      746,
+      759,
+      755
+    ],
+    "ligand_names": [
+      "triformylphloroglucinol (Tp)",
+      "3,9-diamino-benzo[1,2-b:4,5-b']bis[1]benzothiophene-5,5,11,11-tetraoxide",
+      "NH2-Ti3C2Tx"
+    ]
+  },
+  {
+    "set_index_id": 71,
+    "row_id": 831,
+    "cof_name": "COF-Tp-Tt/NT",
+    "ligand_ids": [
+      746,
+      760,
+      755
+    ],
+    "ligand_names": [
+      "triformylphloroglucinol (Tp)",
+      "melamine (Tt)",
+      "NH2-Ti3C2Tx"
+    ]
+  },
+  {
+    "set_index_id": 72,
+    "row_id": 840,
+    "cof_name": "S-TmTaDm-COF (1)",
+    "ligand_ids": [
+      590,
+      591,
+      767
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-aminophenyl)benzene (TAPB)",
+      "2,5-dimethoxy terephthalaldehyde (DMTPA)",
+      "trimethylsilyl cyanide (TMSCN)"
+    ]
+  },
+  {
+    "set_index_id": 73,
+    "row_id": 841,
+    "cof_name": "P-StTaDm-COF (2)",
+    "ligand_ids": [
+      590,
+      591,
+      768
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-aminophenyl)benzene (TAPB)",
+      "2,5-dimethoxy terephthalaldehyde (DMTPA)",
+      "styrene"
+    ]
+  },
+  {
+    "set_index_id": 74,
+    "row_id": 845,
+    "cof_name": "S-TmTaTp-COF (3)",
+    "ligand_ids": [
+      769,
+      770,
+      771
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-aminophenyl)benzene (TAPB) (1a)",
+      "Terephthalaldehyde (Tp) (2a)",
+      "trimethylsilyl cyanide (TMSCN) (3b)"
+    ]
+  },
+  {
+    "set_index_id": 75,
+    "row_id": 846,
+    "cof_name": "P-StTaTp-COF (4)",
+    "ligand_ids": [
+      769,
+      770,
+      772
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-aminophenyl)benzene (TAPB) (1a)",
+      "Terephthalaldehyde (Tp) (2a)",
+      "styrene (4a)"
+    ]
+  },
+  {
+    "set_index_id": 76,
+    "row_id": 847,
+    "cof_name": "S-TmPtDm-COF (5)",
+    "ligand_ids": [
+      769,
+      773,
+      774
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-aminophenyl)benzene (TAPB) (1a)",
+      "Terephthalaldehyde (Tp) (2b)",
+      "trimethylsilyl cyanide (TMSCN) (3a/3b)"
+    ]
+  },
+  {
+    "set_index_id": 77,
+    "row_id": 848,
+    "cof_name": "P-StPtDm-COF (6)",
+    "ligand_ids": [
+      769,
+      773,
+      772
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-aminophenyl)benzene (TAPB) (1a)",
+      "Terephthalaldehyde (Tp) (2b)",
+      "styrene (4a)"
+    ]
+  },
+  {
+    "set_index_id": 78,
+    "row_id": 849,
+    "cof_name": "S-TmPtTp-COF (7)",
+    "ligand_ids": [
+      769,
+      773,
+      771
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-aminophenyl)benzene (TAPB) (1a)",
+      "Terephthalaldehyde (Tp) (2b)",
+      "trimethylsilyl cyanide (TMSCN) (3b)"
+    ]
+  },
+  {
+    "set_index_id": 79,
+    "row_id": 850,
+    "cof_name": "P-StPtTp-COF (8)",
+    "ligand_ids": [
+      769,
+      773,
+      772
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-aminophenyl)benzene (TAPB) (1a)",
+      "Terephthalaldehyde (Tp) (2b)",
+      "styrene (4a)"
+    ]
+  },
+  {
+    "set_index_id": 80,
+    "row_id": 851,
+    "cof_name": "S-TmTtDm-COF (9)",
+    "ligand_ids": [
+      769,
+      775,
+      776
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-aminophenyl)benzene (TAPB) (1a)",
+      "Monomer 2c",
+      "trimethylsilyl cyanide (TMSCN) (3a)"
+    ]
+  },
+  {
+    "set_index_id": 81,
+    "row_id": 852,
+    "cof_name": "P-StTtDm-COF (10)",
+    "ligand_ids": [
+      769,
+      775,
+      772
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-aminophenyl)benzene (TAPB) (1a)",
+      "Monomer 2c",
+      "styrene (4a)"
+    ]
+  },
+  {
+    "set_index_id": 82,
+    "row_id": 853,
+    "cof_name": "S-DpTaDm-COF (11)",
+    "ligand_ids": [
+      777,
+      778,
+      776
+    ],
+    "ligand_names": [
+      "Monomer 1b",
+      "2,5-dimethoxy terephthalaldehyde (DMTPA) (2a)",
+      "trimethylsilyl cyanide (TMSCN) (3a)"
+    ]
+  },
+  {
+    "set_index_id": 83,
+    "row_id": 854,
+    "cof_name": "P-DpTaDm-COF (12)",
+    "ligand_ids": [
+      777,
+      778,
+      772
+    ],
+    "ligand_names": [
+      "Monomer 1b",
+      "2,5-dimethoxy terephthalaldehyde (DMTPA) (2a)",
+      "styrene (4a)"
+    ]
+  },
+  {
+    "set_index_id": 84,
+    "row_id": 890,
+    "cof_name": "(S)-DTP-COF",
+    "ligand_ids": [
+      808,
+      809,
+      810
+    ],
+    "ligand_names": [
+      "DMTP (2,5-dimethoxyterephthaldehyde)",
+      "TAPB (1,3,5-tris(4-aminophenyl)benzene)",
+      "PA (phenylacetylene)"
+    ]
+  },
+  {
+    "set_index_id": 85,
+    "row_id": 891,
+    "cof_name": "(R)-DTP-COF",
+    "ligand_ids": [
+      808,
+      809,
+      810
+    ],
+    "ligand_names": [
+      "DMTP (2,5-dimethoxyterephthaldehyde)",
+      "TAPB (1,3,5-tris(4-aminophenyl)benzene)",
+      "PA (phenylacetylene)"
+    ]
+  },
+  {
+    "set_index_id": 86,
+    "row_id": 892,
+    "cof_name": "Racemic DTP-COF",
+    "ligand_ids": [
+      529,
+      124,
+      429
+    ],
+    "ligand_names": [
+      "DMTP",
+      "TAPB",
+      "PA"
+    ]
+  },
+  {
+    "set_index_id": 87,
+    "row_id": 893,
+    "cof_name": "(S)-DTM-COF",
+    "ligand_ids": [
+      808,
+      809,
+      811
+    ],
+    "ligand_names": [
+      "DMTP (2,5-dimethoxyterephthaldehyde)",
+      "TAPB (1,3,5-tris(4-aminophenyl)benzene)",
+      "MPA (4-methylphenylacetylene)"
+    ]
+  },
+  {
+    "set_index_id": 88,
+    "row_id": 894,
+    "cof_name": "(R)-DTM-COF",
+    "ligand_ids": [
+      529,
+      124,
+      812
+    ],
+    "ligand_names": [
+      "DMTP",
+      "TAPB",
+      "MPA"
+    ]
+  },
+  {
+    "set_index_id": 89,
+    "row_id": 895,
+    "cof_name": "(S)-TTP-COF",
+    "ligand_ids": [
+      813,
+      809,
+      810
+    ],
+    "ligand_names": [
+      "TPA (terephthaldicarboxaldehyde)",
+      "TAPB (1,3,5-tris(4-aminophenyl)benzene)",
+      "PA (phenylacetylene)"
+    ]
+  },
+  {
+    "set_index_id": 90,
+    "row_id": 896,
+    "cof_name": "(R)-TTP-COF",
+    "ligand_ids": [
+      814,
+      124,
+      429
+    ],
+    "ligand_names": [
+      "TPA",
+      "TAPB",
+      "PA"
+    ]
+  },
+  {
+    "set_index_id": 91,
+    "row_id": 898,
+    "cof_name": "LZU-561",
+    "ligand_ids": [
+      817,
+      818,
+      819
+    ],
+    "ligand_names": [
+      "2-Amino-pyridine (1a)",
+      "1,3,5-tris(3-fluoro-4-formylphenyl)benzene (2)",
+      "1,3,5-tris(4-isocyanophenyl) benzene (3)"
+    ]
+  },
+  {
+    "set_index_id": 92,
+    "row_id": 899,
+    "cof_name": "LZU-562",
+    "ligand_ids": [
+      820,
+      818,
+      819
+    ],
+    "ligand_names": [
+      "2-amino-5-methoxypyridine (1b)",
+      "1,3,5-tris(3-fluoro-4-formylphenyl)benzene (2)",
+      "1,3,5-tris(4-isocyanophenyl) benzene (3)"
+    ]
+  },
+  {
+    "set_index_id": 93,
+    "row_id": 900,
+    "cof_name": "LZU-563",
+    "ligand_ids": [
+      821,
+      818,
+      819
+    ],
+    "ligand_names": [
+      "2-amino-4-chloropyridine (1c)",
+      "1,3,5-tris(3-fluoro-4-formylphenyl)benzene (2)",
+      "1,3,5-tris(4-isocyanophenyl) benzene (3)"
+    ]
+  },
+  {
+    "set_index_id": 94,
+    "row_id": 901,
+    "cof_name": "LZU-564",
+    "ligand_ids": [
+      822,
+      818,
+      819
+    ],
+    "ligand_names": [
+      "2-amino-5-bromo-4-methylpyridine (1d)",
+      "1,3,5-tris(3-fluoro-4-formylphenyl)benzene (2)",
+      "1,3,5-tris(4-isocyanophenyl) benzene (3)"
+    ]
+  },
+  {
+    "set_index_id": 95,
+    "row_id": 902,
+    "cof_name": "LZU-565",
+    "ligand_ids": [
+      817,
+      823,
+      824
+    ],
+    "ligand_names": [
+      "2-amino-pyridine (1a)",
+      "1,3,5-tris (3-fluoro-4-formylphenyl) benzene (2)",
+      "1,4-diisocyanobenzene (4)"
+    ]
+  },
+  {
+    "set_index_id": 96,
+    "row_id": 903,
+    "cof_name": "LZU-566",
+    "ligand_ids": [
+      820,
+      818,
+      824
+    ],
+    "ligand_names": [
+      "2-amino-5-methoxypyridine (1b)",
+      "1,3,5-tris(3-fluoro-4-formylphenyl)benzene (2)",
+      "1,4-diisocyanobenzene (4)"
+    ]
+  },
+  {
+    "set_index_id": 97,
+    "row_id": 904,
+    "cof_name": "LZU-567",
+    "ligand_ids": [
+      821,
+      818,
+      824
+    ],
+    "ligand_names": [
+      "2-amino-4-chloropyridine (1c)",
+      "1,3,5-tris(3-fluoro-4-formylphenyl)benzene (2)",
+      "1,4-diisocyanobenzene (4)"
+    ]
+  },
+  {
+    "set_index_id": 98,
+    "row_id": 905,
+    "cof_name": "LZU-568",
+    "ligand_ids": [
+      822,
+      818,
+      824
+    ],
+    "ligand_names": [
+      "2-amino-5-bromo-4-methylpyridine (1d)",
+      "1,3,5-tris(3-fluoro-4-formylphenyl)benzene (2)",
+      "1,4-diisocyanobenzene (4)"
+    ]
+  },
+  {
+    "set_index_id": 99,
+    "row_id": 928,
+    "cof_name": "[HC≡C]50-TPB-BPTA-COF",
+    "ligand_ids": [
+      124,
+      840,
+      841
+    ],
+    "ligand_names": [
+      "TAPB",
+      "DMTA",
+      "BPTA"
+    ]
+  },
+  {
+    "set_index_id": 100,
+    "row_id": 980,
+    "cof_name": "(R)-DTP-COF-QA",
+    "ligand_ids": [
+      890,
+      891,
+      892
+    ],
+    "ligand_names": [
+      "2,5-dimethoxyterephthaldehyde (DMTP)",
+      "5,10,15,20-tetrakis(4-aminophenyl)porphyrin (TAPP)",
+      "N,N-diethyl-N-(4-ethynylbenzyl)ethanaminium bromide (PA-QA)"
+    ]
+  },
+  {
+    "set_index_id": 101,
+    "row_id": 981,
+    "cof_name": "(S)-DTP-COF-QA",
+    "ligand_ids": [
+      890,
+      891,
+      892
+    ],
+    "ligand_names": [
+      "2,5-dimethoxyterephthaldehyde (DMTP)",
+      "5,10,15,20-tetrakis(4-aminophenyl)porphyrin (TAPP)",
+      "N,N-diethyl-N-(4-ethynylbenzyl)ethanaminium bromide (PA-QA)"
+    ]
+  },
+  {
+    "set_index_id": 102,
+    "row_id": 982,
+    "cof_name": "(R)-DTP-COF",
+    "ligand_ids": [
+      890,
+      891,
+      893
+    ],
+    "ligand_names": [
+      "2,5-dimethoxyterephthaldehyde (DMTP)",
+      "5,10,15,20-tetrakis(4-aminophenyl)porphyrin (TAPP)",
+      "phenylacetylene (PA)"
+    ]
+  },
+  {
+    "set_index_id": 103,
+    "row_id": 1013,
+    "cof_name": "[HC≡C]25-H2P-COF",
+    "ligand_ids": [
+      917,
+      247,
+      841
+    ],
+    "ligand_names": [
+      "H2P",
+      "DHTA",
+      "BPTA"
+    ]
+  },
+  {
+    "set_index_id": 104,
+    "row_id": 1014,
+    "cof_name": "[HC≡C]50-H2P-COF",
+    "ligand_ids": [
+      917,
+      247,
+      841
+    ],
+    "ligand_names": [
+      "H2P",
+      "DHTA",
+      "BPTA"
+    ]
+  },
+  {
+    "set_index_id": 105,
+    "row_id": 1015,
+    "cof_name": "[HC≡C]75-H2P-COF",
+    "ligand_ids": [
+      917,
+      247,
+      841
+    ],
+    "ligand_names": [
+      "H2P",
+      "DHTA",
+      "BPTA"
+    ]
+  },
+  {
+    "set_index_id": 106,
+    "row_id": 1028,
+    "cof_name": "Py-MV-DBA-COF",
+    "ligand_ids": [
+      558,
+      560,
+      929
+    ],
+    "ligand_names": [
+      "DBA[12]-OH",
+      "DBA[18]-OH",
+      "PDBA"
+    ]
+  },
+  {
+    "set_index_id": 107,
+    "row_id": 1043,
+    "cof_name": "Py-1PF COF",
+    "ligand_ids": [
+      782,
+      416,
+      940
+    ],
+    "ligand_names": [
+      "1,3,6,8-tetrakis(4-aminophenyl)pyrene",
+      "terephthalaldehyde",
+      "2,3,5,6-tetrafluoroterephthalaldehyde"
+    ]
+  },
+  {
+    "set_index_id": 108,
+    "row_id": 1066,
+    "cof_name": "DMTA-TPB1/2",
+    "ligand_ids": [
+      961,
+      715,
+      840
+    ],
+    "ligand_names": [
+      "TPB1",
+      "TPB2",
+      "DMTA"
+    ]
+  },
+  {
+    "set_index_id": 109,
+    "row_id": 1067,
+    "cof_name": "DMTA-TPB1/3",
+    "ligand_ids": [
+      961,
+      959,
+      840
+    ],
+    "ligand_names": [
+      "TPB1",
+      "TPB3",
+      "DMTA"
+    ]
+  },
+  {
+    "set_index_id": 110,
+    "row_id": 1068,
+    "cof_name": "DMTA-TPB1/4",
+    "ligand_ids": [
+      961,
+      960,
+      840
+    ],
+    "ligand_names": [
+      "TPB1",
+      "TPB4",
+      "DMTA"
+    ]
+  },
+  {
+    "set_index_id": 111,
+    "row_id": 1069,
+    "cof_name": "DMTA-TPB1/5",
+    "ligand_ids": [
+      961,
+      962,
+      840
+    ],
+    "ligand_names": [
+      "TPB1",
+      "TPB5",
+      "DMTA"
+    ]
+  },
+  {
+    "set_index_id": 112,
+    "row_id": 1074,
+    "cof_name": "DMTA-TPB10.75/20.25",
+    "ligand_ids": [
+      961,
+      715,
+      840
+    ],
+    "ligand_names": [
+      "TPB1",
+      "TPB2",
+      "DMTA"
+    ]
+  },
+  {
+    "set_index_id": 113,
+    "row_id": 1075,
+    "cof_name": "DMTA-TPB10.25/20.75",
+    "ligand_ids": [
+      961,
+      715,
+      840
+    ],
+    "ligand_names": [
+      "TPB1",
+      "TPB2",
+      "DMTA"
+    ]
+  },
+  {
+    "set_index_id": 114,
+    "row_id": 1076,
+    "cof_name": "amorphous1/3'",
+    "ligand_ids": [
+      961,
+      959,
+      840
+    ],
+    "ligand_names": [
+      "TPB1",
+      "TPB3",
+      "DMTA"
+    ]
+  },
+  {
+    "set_index_id": 115,
+    "row_id": 1077,
+    "cof_name": "amorphous1/4'",
+    "ligand_ids": [
+      961,
+      960,
+      840
+    ],
+    "ligand_names": [
+      "TPB1",
+      "TPB4",
+      "DMTA"
+    ]
+  },
+  {
+    "set_index_id": 116,
+    "row_id": 1078,
+    "cof_name": "amorphous1/5'",
+    "ligand_ids": [
+      961,
+      962,
+      840
+    ],
+    "ligand_names": [
+      "TPB1",
+      "TPB5",
+      "DMTA"
+    ]
+  },
+  {
+    "set_index_id": 117,
+    "row_id": 1090,
+    "cof_name": "COF-112",
+    "ligand_ids": [
+      972,
+      973,
+      974
+    ],
+    "ligand_names": [
+      "2,6-Pyridinedicarboxaldehyde (PCBA)",
+      "4-(tert-butoxycarbonylamino)-aniline (NBPDA)",
+      "Co(BF4)2·6H2O"
+    ]
+  },
+  {
+    "set_index_id": 118,
+    "row_id": 1091,
+    "cof_name": "COF-112",
+    "ligand_ids": [
+      975,
+      972,
+      974
+    ],
+    "ligand_names": [
+      "Co(NH2-DIP)2(BF4)2",
+      "2,6-Pyridinedicarboxaldehyde (PCBA)",
+      "Co(BF4)2·6H2O"
+    ]
+  },
+  {
+    "set_index_id": 119,
+    "row_id": 1094,
+    "cof_name": "COF-112-Fe",
+    "ligand_ids": [
+      976,
+      977,
+      978
+    ],
+    "ligand_names": [
+      "Fe(NH2-DIP)2(BF4)2",
+      "2,6-pyridinedicarboxaldehyde",
+      "Fe(BF4)2·6H2O"
+    ]
+  },
+  {
+    "set_index_id": 120,
+    "row_id": 1097,
+    "cof_name": "COF-112",
+    "ligand_ids": [
+      981,
+      982,
+      974
+    ],
+    "ligand_names": [
+      "Co(NHBoc-DIP)2(BF4)2",
+      "2,6-pyridine-dicarboxaldehyde",
+      "Co(BF4)2·6H2O"
+    ]
+  },
+  {
+    "set_index_id": 121,
+    "row_id": 1144,
+    "cof_name": "COF 1-Zn",
+    "ligand_ids": [
+      1025,
+      1026,
+      1028
+    ],
+    "ligand_names": [
+      "Si-THBA",
+      "ethanediamine",
+      "Zn(OAc)2·2H2O"
+    ]
+  },
+  {
+    "set_index_id": 122,
+    "row_id": 1145,
+    "cof_name": "COF 2-Zn",
+    "ligand_ids": [
+      1027,
+      1026,
+      1028
+    ],
+    "ligand_names": [
+      "C-THBA",
+      "ethanediamine",
+      "Zn(OAc)2·2H2O"
+    ]
+  },
+  {
+    "set_index_id": 123,
+    "row_id": 1168,
+    "cof_name": "COF-346",
+    "ligand_ids": [
+      1046,
+      168,
+      151
+    ],
+    "ligand_names": [
+      "HAPB",
+      "TFPB",
+      "ETTA"
+    ]
+  },
+  {
+    "set_index_id": 124,
+    "row_id": 1195,
+    "cof_name": "COF-1",
+    "ligand_ids": [
+      1066,
+      1067,
+      888
+    ],
+    "ligand_names": [
+      "1,3,5-tris(4-formylphenyl)benzene (TFB)",
+      "2,5-divinylbenzene-1,4-diamine (DBA)",
+      "p-phenylenediamine (DA)"
+    ]
+  },
+  {
+    "set_index_id": 125,
+    "row_id": 1196,
+    "cof_name": "COF-2",
+    "ligand_ids": [
+      1066,
+      1067,
+      1068
+    ],
+    "ligand_names": [
+      "1,3,5-tris(4-formylphenyl)benzene (TFB)",
+      "2,5-divinylbenzene-1,4-diamine (DBA)",
+      "o-tolidine (TD)"
+    ]
+  },
+  {
+    "set_index_id": 126,
+    "row_id": 1197,
+    "cof_name": "COF-1'",
+    "ligand_ids": [
+      1066,
+      1067,
+      888
+    ],
+    "ligand_names": [
+      "1,3,5-tris(4-formylphenyl)benzene (TFB)",
+      "2,5-divinylbenzene-1,4-diamine (DBA)",
+      "p-phenylenediamine (DA)"
+    ]
+  },
+  {
+    "set_index_id": 127,
+    "row_id": 1201,
+    "cof_name": "LZU-501",
+    "ligand_ids": [
+      1073,
+      1074,
+      1075
+    ],
+    "ligand_names": [
+      "tertbutylpyrene tetraone (1)",
+      "ammonium acetate (2)",
+      "1,3,5-tris(4-formylphenyl)benzene (3a)"
+    ]
+  },
+  {
+    "set_index_id": 128,
+    "row_id": 1202,
+    "cof_name": "LZU-506",
+    "ligand_ids": [
+      1073,
+      1074,
+      1076
+    ],
+    "ligand_names": [
+      "tertbutylpyrene tetraone (1)",
+      "ammonium acetate (2)",
+      "1,3,5-tris(3-fluoro-4-formylphenyl)benzene (3b)"
+    ]
+  },
+  {
+    "set_index_id": 129,
+    "row_id": 1203,
+    "cof_name": "LZU-508",
+    "ligand_ids": [
+      1073,
+      1074,
+      1077
+    ],
+    "ligand_names": [
+      "tertbutylpyrene tetraone (1)",
+      "ammonium acetate (2)",
+      "1,3,5-tris-(4-formylphenyl)triazine (3c)"
+    ]
+  },
+  {
+    "set_index_id": 130,
+    "row_id": 1204,
+    "cof_name": "LZU-512",
+    "ligand_ids": [
+      1073,
+      1074,
+      1078
+    ],
+    "ligand_names": [
+      "tertbutylpyrene tetraone (1)",
+      "ammonium acetate (2)",
+      "1,3,5-trisforylbenzene (3d)"
+    ]
+  },
+  {
+    "set_index_id": 131,
+    "row_id": 1214,
+    "cof_name": "COF-77",
+    "ligand_ids": [
+      1088,
+      1089,
+      1090
+    ],
+    "ligand_names": [
+      "1,3,6,8-tetrakis(p-formylphenyl)pyrene (TFPPy)",
+      "tris(4-aminophenyl)amine (TAA)",
+      "terephthalaldehyde (BDA)"
+    ]
+  },
+  {
+    "set_index_id": 132,
+    "row_id": 1216,
+    "cof_name": "COF-78",
+    "ligand_ids": [
+      1088,
+      1089,
+      542
+    ],
+    "ligand_names": [
+      "1,3,6,8-tetrakis(p-formylphenyl)pyrene (TFPPy)",
+      "tris(4-aminophenyl)amine (TAA)",
+      "Pyromellitic dianhydride (PMDA)"
+    ]
+  },
+  {
+    "set_index_id": 133,
+    "row_id": 1245,
+    "cof_name": "[HC≡C]0.17-TPB-DMTP-COF",
+    "ligand_ids": [
+      124,
+      840,
+      1098
+    ],
+    "ligand_names": [
+      "TAPB",
+      "DMTA",
+      "2,5-bis(2-propynyloxy)terephthalaldehyde (BPTA)"
+    ]
+  },
+  {
+    "set_index_id": 134,
+    "row_id": 1246,
+    "cof_name": "[HC≡C]0.34-TPB-DMTP-COF",
+    "ligand_ids": [
+      124,
+      840,
+      841
+    ],
+    "ligand_names": [
+      "TAPB",
+      "DMTA",
+      "BPTA"
+    ]
+  },
+  {
+    "set_index_id": 135,
+    "row_id": 1247,
+    "cof_name": "[HC≡C]0.50-TPB-DMTP-COF",
+    "ligand_ids": [
+      124,
+      840,
+      841
+    ],
+    "ligand_names": [
+      "TAPB",
+      "DMTA",
+      "BPTA"
+    ]
+  },
+  {
+    "set_index_id": 136,
+    "row_id": 1259,
+    "cof_name": "MC-COF-TP-E11E72",
+    "ligand_ids": [
+      217,
+      1111,
+      1112
+    ],
+    "ligand_names": [
+      "TP",
+      "E1",
+      "E7"
+    ]
+  },
+  {
+    "set_index_id": 137,
+    "row_id": 1260,
+    "cof_name": "MC-COF-TP-E12E71",
+    "ligand_ids": [
+      217,
+      1111,
+      1112
+    ],
+    "ligand_names": [
+      "TP",
+      "E1",
+      "E7"
+    ]
+  },
+  {
+    "set_index_id": 138,
+    "row_id": 1262,
+    "cof_name": "MC-COF-NiPc-E1E7",
+    "ligand_ids": [
+      1113,
+      1111,
+      1112
+    ],
+    "ligand_names": [
+      "NiPc knot",
+      "E1",
+      "E7"
+    ]
+  },
+  {
+    "set_index_id": 139,
+    "row_id": 1285,
+    "cof_name": "Tf-DHz2DAll1DPr COF",
+    "ligand_ids": [
+      1124,
+      1127,
+      1126
+    ],
+    "ligand_names": [
+      "1,3,5-triformylbenzene (Tf)",
+      "2,5-Bis(allyloxy)terephthalohydrazide (DHzDAll)",
+      "2,5-Dipropoxyterephthalohydrazide (DHzDPr)"
+    ]
+  },
+  {
+    "set_index_id": 140,
+    "row_id": 1286,
+    "cof_name": "Tf-DHz1DAll1DPr COF",
+    "ligand_ids": [
+      1124,
+      1127,
+      1126
+    ],
+    "ligand_names": [
+      "1,3,5-triformylbenzene (Tf)",
+      "2,5-Bis(allyloxy)terephthalohydrazide (DHzDAll)",
+      "2,5-Dipropoxyterephthalohydrazide (DHzDPr)"
+    ]
+  },
+  {
+    "set_index_id": 141,
+    "row_id": 1287,
+    "cof_name": "Tf-DHz1DAll2DPr COF",
+    "ligand_ids": [
+      1124,
+      1127,
+      1126
+    ],
+    "ligand_names": [
+      "1,3,5-triformylbenzene (Tf)",
+      "2,5-Bis(allyloxy)terephthalohydrazide (DHzDAll)",
+      "2,5-Dipropoxyterephthalohydrazide (DHzDPr)"
+    ]
+  },
+  {
+    "set_index_id": 142,
+    "row_id": 1288,
+    "cof_name": "TFPB-DHz2DAll1DPr COF",
+    "ligand_ids": [
+      1128,
+      1127,
+      1126
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-formylphenyl)benzene (TFPB)",
+      "2,5-Bis(allyloxy)terephthalohydrazide (DHzDAll)",
+      "2,5-Dipropoxyterephthalohydrazide (DHzDPr)"
+    ]
+  },
+  {
+    "set_index_id": 143,
+    "row_id": 1289,
+    "cof_name": "TFPB-DHz1DAll2DPr COF",
+    "ligand_ids": [
+      1128,
+      1127,
+      1126
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-formylphenyl)benzene (TFPB)",
+      "2,5-Bis(allyloxy)terephthalohydrazide (DHzDAll)",
+      "2,5-Dipropoxyterephthalohydrazide (DHzDPr)"
+    ]
+  },
+  {
+    "set_index_id": 144,
+    "row_id": 1290,
+    "cof_name": "TFPB-DHz2DAII1DS COF",
+    "ligand_ids": [
+      1128,
+      1127,
+      1129
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-formylphenyl)benzene (TFPB)",
+      "2,5-Bis(allyloxy)terephthalohydrazide (DHzDAll)",
+      "2,5-Bis(3-(ethylthio)propoxy)terephthalohydrazide (DHzDS)"
+    ]
+  },
+  {
+    "set_index_id": 145,
+    "row_id": 1291,
+    "cof_name": "TFPB-DHz1DAII2DS COF",
+    "ligand_ids": [
+      1128,
+      1127,
+      1129
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-formylphenyl)benzene (TFPB)",
+      "2,5-Bis(allyloxy)terephthalohydrazide (DHzDAll)",
+      "2,5-Bis(3-(ethylthio)propoxy)terephthalohydrazide (DHzDS)"
+    ]
+  },
+  {
+    "set_index_id": 146,
+    "row_id": 1302,
+    "cof_name": "PT2B-COF",
+    "ligand_ids": [
+      1137,
+      1138,
+      1140
+    ],
+    "ligand_names": [
+      "P (pyrene tetraaniline)",
+      "T (Triazine tribenzaldehyde)",
+      "B (benzidine)"
+    ]
+  },
+  {
+    "set_index_id": 147,
+    "row_id": 1303,
+    "cof_name": "PY2B-COF",
+    "ligand_ids": [
+      1137,
+      1139,
+      1140
+    ],
+    "ligand_names": [
+      "P (pyrene tetraaniline)",
+      "Y (benzene tripicolinaldehyde)",
+      "B (benzidine)"
+    ]
+  },
+  {
+    "set_index_id": 148,
+    "row_id": 1316,
+    "cof_name": "PI-COF-m10",
+    "ligand_ids": [
+      542,
+      543,
+      1145
+    ],
+    "ligand_names": [
+      "Pyromellitic dianhydride (PMDA)",
+      "tris(4-aminophenyl)amine (TAPA)",
+      "4-[(dimethylamino)methyl]aniline (DMMA)"
+    ]
+  },
+  {
+    "set_index_id": 149,
+    "row_id": 1317,
+    "cof_name": "PI-COF-m20",
+    "ligand_ids": [
+      542,
+      543,
+      1145
+    ],
+    "ligand_names": [
+      "Pyromellitic dianhydride (PMDA)",
+      "tris(4-aminophenyl)amine (TAPA)",
+      "4-[(dimethylamino)methyl]aniline (DMMA)"
+    ]
+  },
+  {
+    "set_index_id": 150,
+    "row_id": 1318,
+    "cof_name": "PI-COF-m40",
+    "ligand_ids": [
+      542,
+      543,
+      1145
+    ],
+    "ligand_names": [
+      "Pyromellitic dianhydride (PMDA)",
+      "tris(4-aminophenyl)amine (TAPA)",
+      "4-[(dimethylamino)methyl]aniline (DMMA)"
+    ]
+  },
+  {
+    "set_index_id": 151,
+    "row_id": 1319,
+    "cof_name": "PI-COF-m60",
+    "ligand_ids": [
+      542,
+      543,
+      1145
+    ],
+    "ligand_names": [
+      "Pyromellitic dianhydride (PMDA)",
+      "tris(4-aminophenyl)amine (TAPA)",
+      "4-[(dimethylamino)methyl]aniline (DMMA)"
+    ]
+  },
+  {
+    "set_index_id": 152,
+    "row_id": 1320,
+    "cof_name": "AF-COF 10",
+    "ligand_ids": [
+      542,
+      543,
+      1146
+    ],
+    "ligand_names": [
+      "Pyromellitic dianhydride (PMDA)",
+      "tris(4-aminophenyl)amine (TAPA)",
+      "4-(tert-butyl)aniline (TBA)"
+    ]
+  },
+  {
+    "set_index_id": 153,
+    "row_id": 1321,
+    "cof_name": "AF-COF 20",
+    "ligand_ids": [
+      542,
+      543,
+      1146
+    ],
+    "ligand_names": [
+      "Pyromellitic dianhydride (PMDA)",
+      "tris(4-aminophenyl)amine (TAPA)",
+      "4-(tert-butyl)aniline (TBA)"
+    ]
+  },
+  {
+    "set_index_id": 154,
+    "row_id": 1414,
+    "cof_name": "BDT:BDT-OEt 3:1 COF",
+    "ligand_ids": [
+      50,
+      1212,
+      1213
+    ],
+    "ligand_names": [
+      "HHTP (2,3,6,7,10,11-hexahydroxytriphenylene)",
+      "BDT diboronic acid",
+      "(4,8-diethoxybenzo[1,2-b:4,5-b']dithiophene-2,6-diyl)diboronic acid (BDT-OEt)"
+    ]
+  },
+  {
+    "set_index_id": 155,
+    "row_id": 1415,
+    "cof_name": "BDT:BDT-OEt 1:1 COF",
+    "ligand_ids": [
+      50,
+      1212,
+      1213
+    ],
+    "ligand_names": [
+      "HHTP (2,3,6,7,10,11-hexahydroxytriphenylene)",
+      "BDT diboronic acid",
+      "(4,8-diethoxybenzo[1,2-b:4,5-b']dithiophene-2,6-diyl)diboronic acid (BDT-OEt)"
+    ]
+  },
+  {
+    "set_index_id": 156,
+    "row_id": 1416,
+    "cof_name": "BDT:BDT-OEt 1:3 COF",
+    "ligand_ids": [
+      50,
+      1212,
+      1213
+    ],
+    "ligand_names": [
+      "HHTP (2,3,6,7,10,11-hexahydroxytriphenylene)",
+      "BDT diboronic acid",
+      "(4,8-diethoxybenzo[1,2-b:4,5-b']dithiophene-2,6-diyl)diboronic acid (BDT-OEt)"
+    ]
+  },
+  {
+    "set_index_id": 157,
+    "row_id": 1422,
+    "cof_name": "[HO]25%-TAPH-COF",
+    "ligand_ids": [
+      1217,
+      104,
+      105
+    ],
+    "ligand_names": [
+      "TAPH (5,10,15,20-tetrakis(4-aminophenyl)porphyrin)",
+      "DHTA (2,5-Dihydroxyterephthalaldehyde)",
+      "PA (1,4-Phthalaldehyde)"
+    ]
+  },
+  {
+    "set_index_id": 158,
+    "row_id": 1423,
+    "cof_name": "[HO]50%-TAPH-COF",
+    "ligand_ids": [
+      1217,
+      104,
+      105
+    ],
+    "ligand_names": [
+      "TAPH (5,10,15,20-tetrakis(4-aminophenyl)porphyrin)",
+      "DHTA (2,5-Dihydroxyterephthalaldehyde)",
+      "PA (1,4-Phthalaldehyde)"
+    ]
+  },
+  {
+    "set_index_id": 159,
+    "row_id": 1424,
+    "cof_name": "[HO]75%-TAPH-COF",
+    "ligand_ids": [
+      1217,
+      104,
+      105
+    ],
+    "ligand_names": [
+      "TAPH (5,10,15,20-tetrakis(4-aminophenyl)porphyrin)",
+      "DHTA (2,5-Dihydroxyterephthalaldehyde)",
+      "PA (1,4-Phthalaldehyde)"
+    ]
+  },
+  {
+    "set_index_id": 160,
+    "row_id": 1425,
+    "cof_name": "[HO]100%-TAPH-COF",
+    "ligand_ids": [
+      1217,
+      104,
+      105
+    ],
+    "ligand_names": [
+      "TAPH (5,10,15,20-tetrakis(4-aminophenyl)porphyrin)",
+      "DHTA (2,5-Dihydroxyterephthalaldehyde)",
+      "PA (1,4-Phthalaldehyde)"
+    ]
+  },
+  {
+    "set_index_id": 161,
+    "row_id": 1554,
+    "cof_name": "Ni-Salphen-COF",
+    "ligand_ids": [
+      1332,
+      1333,
+      1334
+    ],
+    "ligand_names": [
+      "HATP·6HCl",
+      "DMDB",
+      "Ni(OAc)2·4H2O"
+    ]
+  },
+  {
+    "set_index_id": 162,
+    "row_id": 1564,
+    "cof_name": "TAPB-DMTP-PA-COF",
+    "ligand_ids": [
+      590,
+      445,
+      1344
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-aminophenyl)benzene (TAPB)",
+      "2,5-dimethoxyterephaldehyde (DMTP)",
+      "pyruvic acid (PA)"
+    ]
+  },
+  {
+    "set_index_id": 163,
+    "row_id": 1565,
+    "cof_name": "TAPB-TFPB-PA-COF",
+    "ligand_ids": [
+      590,
+      1345,
+      1344
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-aminophenyl)benzene (TAPB)",
+      "1,3,5-tris(p-formylphenyl)benzene (TFPB)",
+      "pyruvic acid (PA)"
+    ]
+  },
+  {
+    "set_index_id": 164,
+    "row_id": 1566,
+    "cof_name": "TAPT-TFPB-PA-COF",
+    "ligand_ids": [
+      206,
+      1345,
+      1344
+    ],
+    "ligand_names": [
+      "2,4,6-tris(4-aminophenyl)-1,3,5-triazine (TAPT)",
+      "1,3,5-tris(p-formylphenyl)benzene (TFPB)",
+      "pyruvic acid (PA)"
+    ]
+  },
+  {
+    "set_index_id": 165,
+    "row_id": 1567,
+    "cof_name": "TAPB-TP-PA-COF",
+    "ligand_ids": [
+      590,
+      386,
+      1344
+    ],
+    "ligand_names": [
+      "1,3,5-tri(4-aminophenyl)benzene (TAPB)",
+      "terephthalaldehyde (TP)",
+      "pyruvic acid (PA)"
+    ]
+  },
+  {
+    "set_index_id": 166,
+    "row_id": 1568,
+    "cof_name": "TAPT-TP-PA-COF",
+    "ligand_ids": [
+      206,
+      386,
+      1344
+    ],
+    "ligand_names": [
+      "2,4,6-tris(4-aminophenyl)-1,3,5-triazine (TAPT)",
+      "terephthalaldehyde (TP)",
+      "pyruvic acid (PA)"
+    ]
+  },
+  {
+    "set_index_id": 167,
+    "row_id": 1575,
+    "cof_name": "COF-IHEP10",
+    "ligand_ids": [
+      1352,
+      1353,
+      1354
+    ],
+    "ligand_names": [
+      "2,4,6-trihydroxybenzene-1,3,5-tricarbaldehyde (TBTA)",
+      "2,5-dimethoxyterephthalohydrazide (DMPA)",
+      "tetraethyl (((2,5-di(hydrazinecarbonyl)-1,4-phenylene)bis(oxy))bis(ethane-2,1-diyl))bis(phosphonate) (TBBP)"
+    ]
+  },
+  {
+    "set_index_id": 168,
+    "row_id": 1663,
+    "cof_name": "Tp-Sa",
+    "ligand_ids": [
+      0,
+      5,
+      899
+    ],
+    "ligand_names": [
+      "2,4,6-Triformylphloroglucinol (Tp)",
+      "2,6-diaminoanthracene (Da)",
+      "Sulfur"
+    ]
+  },
+  {
+    "set_index_id": 169,
+    "row_id": 1664,
+    "cof_name": "Tb-Sa",
+    "ligand_ids": [
+      68,
+      5,
+      899
+    ],
+    "ligand_names": [
+      "1,3,5-Triformylbenzene (Tb)",
+      "2,6-diaminoanthracene (Da)",
+      "Sulfur"
+    ]
+  },
+  {
+    "set_index_id": 170,
+    "row_id": 1670,
+    "cof_name": "DhaTph-COOH",
+    "ligand_ids": [
+      1387,
+      1388,
+      1344
+    ],
+    "ligand_names": [
+      "5,10,15,20-tetrakis(4-aminophenyl)porphyrin (Tph)",
+      "2,5-dihydroxylterephthalaldehyde (Dha)",
+      "pyruvic acid (PA)"
+    ]
+  },
+  {
+    "set_index_id": 171,
+    "row_id": 1741,
+    "cof_name": "IISERP-COF20-NH2",
+    "ligand_ids": [
+      1440,
+      1441,
+      1442
+    ],
+    "ligand_names": [
+      "IISERP-COF20-NO2",
+      "Na2S·9H2O",
+      "NaHCO3"
+    ]
+  },
+  {
+    "set_index_id": 172,
+    "row_id": 1755,
+    "cof_name": "COF-F3N3",
+    "ligand_ids": [
+      1452,
+      1453,
+      1454
+    ],
+    "ligand_names": [
+      "1,3,5-tris(p-formylphenyl) benzene (Tfb)",
+      "2,5-bis((3,3,4,4,5,5,6,6,6-nonafluorohexyl) oxy) terephthalohydrazide (Bft)",
+      "1,1'-bis(4-aminophenyl)-[4,4'-bipyridine]-1,1'-diium chloride (Bab)"
+    ]
+  },
+  {
+    "set_index_id": 173,
+    "row_id": 1756,
+    "cof_name": "COF-F2N4",
+    "ligand_ids": [
+      1452,
+      1453,
+      1454
+    ],
+    "ligand_names": [
+      "1,3,5-tris(p-formylphenyl) benzene (Tfb)",
+      "2,5-bis((3,3,4,4,5,5,6,6,6-nonafluorohexyl) oxy) terephthalohydrazide (Bft)",
+      "1,1'-bis(4-aminophenyl)-[4,4'-bipyridine]-1,1'-diium chloride (Bab)"
+    ]
+  },
+  {
+    "set_index_id": 174,
+    "row_id": 1757,
+    "cof_name": "COF-F1N5",
+    "ligand_ids": [
+      1452,
+      1453,
+      1454
+    ],
+    "ligand_names": [
+      "1,3,5-tris(p-formylphenyl) benzene (Tfb)",
+      "2,5-bis((3,3,4,4,5,5,6,6,6-nonafluorohexyl) oxy) terephthalohydrazide (Bft)",
+      "1,1'-bis(4-aminophenyl)-[4,4'-bipyridine]-1,1'-diium chloride (Bab)"
+    ]
+  },
+  {
+    "set_index_id": 175,
+    "row_id": 1763,
+    "cof_name": "QL-COF-2",
+    "ligand_ids": [
+      21,
+      1355,
+      506
+    ],
+    "ligand_names": [
+      "1,3,5-triformylbenzene (TFB)",
+      "1,4-phenylenediamine (Pa)",
+      "pyruvic acid"
+    ]
+  },
+  {
+    "set_index_id": 176,
+    "row_id": 1764,
+    "cof_name": "Hz-TPFTZ-COF",
+    "ligand_ids": [
+      1456,
+      1457,
+      1458
+    ],
+    "ligand_names": [
+      "2,4,6-tris (4-formyl phenoxy)-1,3,5-triazine (TPFTZ)",
+      "4-hydroxybenzaldehyde (TCT)",
+      "hydrazine hydrate (Hz)"
+    ]
+  },
+  {
+    "set_index_id": 177,
+    "row_id": 1767,
+    "cof_name": "TATP-SO3H",
+    "ligand_ids": [
+      1461,
+      1462,
+      1463
+    ],
+    "ligand_names": [
+      "2,4,6-tris(4-aminophenyl)-1,3,5-triazine (TAPT or TAPB)",
+      "2,5-dihydroxyterephthaldeyde (DHTP)",
+      "1,3-Propanesultone"
+    ]
+  },
+  {
+    "set_index_id": 178,
+    "row_id": 1782,
+    "cof_name": "COF@NHC-CO2",
+    "ligand_ids": [
+      1478,
+      1479,
+      261
+    ],
+    "ligand_names": [
+      "COF",
+      "NHC-CO2 mixed liquor",
+      "K2CO3"
+    ]
+  },
+  {
+    "set_index_id": 179,
+    "row_id": 1783,
+    "cof_name": "COF@NHC-CuCl",
+    "ligand_ids": [
+      1478,
+      1480,
+      261
+    ],
+    "ligand_names": [
+      "COF",
+      "NHC-CuCl mixed liquor",
+      "K2CO3"
+    ]
+  },
+  {
+    "set_index_id": 180,
+    "row_id": 1789,
+    "cof_name": "TiOCs\n∈\nCOF-TZ",
+    "ligand_ids": [
+      1486,
+      1487,
+      1488
+    ],
+    "ligand_names": [
+      "ETTA (tetrakis(4-aminophenyl)ethane)",
+      "TFPT (1,3,5-tris(p-formylphenyl)triazine)",
+      "[Ti6O6(O'Pr)6(AB)6] cluster precursor"
+    ]
+  },
+  {
+    "set_index_id": 181,
+    "row_id": 1797,
+    "cof_name": "COF-H1",
+    "ligand_ids": [
+      1493,
+      534,
+      1492
+    ],
+    "ligand_names": [
+      "His",
+      "TAPP",
+      "PCBA"
+    ]
+  },
+  {
+    "set_index_id": 182,
+    "row_id": 1798,
+    "cof_name": "COF-H2",
+    "ligand_ids": [
+      1493,
+      534,
+      1492
+    ],
+    "ligand_names": [
+      "His",
+      "TAPP",
+      "PCBA"
+    ]
+  },
+  {
+    "set_index_id": 183,
+    "row_id": 1799,
+    "cof_name": "COF-H3",
+    "ligand_ids": [
+      1493,
+      534,
+      1492
+    ],
+    "ligand_names": [
+      "His",
+      "TAPP",
+      "PCBA"
+    ]
+  },
+  {
+    "set_index_id": 184,
+    "row_id": 1800,
+    "cof_name": "COF-H4",
+    "ligand_ids": [
+      1493,
+      534,
+      1492
+    ],
+    "ligand_names": [
+      "His",
+      "TAPP",
+      "PCBA"
+    ]
+  },
+  {
+    "set_index_id": 185,
+    "row_id": 1813,
+    "cof_name": "NH2-Ti3C2Tx@COF",
+    "ligand_ids": [
+      1502,
+      22,
+      755
+    ],
+    "ligand_names": [
+      "4,4',4''-(benzene-1,3,5-triyltris(ethyne-2,1-diyl))tris(2-hydroxybenzaldehyde) (BTTH)",
+      "2,2'-bipyridine-5,5'-diamine (Bpy)",
+      "NH2-Ti3C2Tx"
+    ]
+  },
+  {
+    "set_index_id": 186,
+    "row_id": 1825,
+    "cof_name": "COFTTA-DHTA@MWCNT",
+    "ligand_ids": [
+      31,
+      247,
+      1514
+    ],
+    "ligand_names": [
+      "TTA",
+      "DHTA",
+      "NH2-f-MWCNT"
+    ]
+  },
+  {
+    "set_index_id": 187,
+    "row_id": 1849,
+    "cof_name": "Py-TFImI-25 COF",
+    "ligand_ids": [
+      112,
+      1528,
+      1529
+    ],
+    "ligand_names": [
+      "PyTTA",
+      "TFTDA",
+      "BFIIm"
+    ]
+  },
+  {
+    "set_index_id": 188,
+    "row_id": 1850,
+    "cof_name": "Py-TFIm-25 COF",
+    "ligand_ids": [
+      112,
+      1528,
+      1530
+    ],
+    "ligand_names": [
+      "PyTTA",
+      "TFTDA",
+      "BFIm"
+    ]
+  },
+  {
+    "set_index_id": 189,
+    "row_id": 1884,
+    "cof_name": "CF-25",
+    "ligand_ids": [
+      519,
+      1160,
+      1575
+    ],
+    "ligand_names": [
+      "HHTP",
+      "BDBA",
+      "BDBN (2-aminobenzene-1,4-diboronic acid)"
+    ]
+  },
+  {
+    "set_index_id": 190,
+    "row_id": 1895,
+    "cof_name": "0.50-TpPa-SO3H/CS aerogel",
+    "ligand_ids": [
+      1586,
+      1587,
+      1588
+    ],
+    "ligand_names": [
+      "Chitosan (CS)",
+      "TpPa-SO3H powder",
+      "Tp (cross-linker)"
+    ]
+  },
+  {
+    "set_index_id": 191,
+    "row_id": 1897,
+    "cof_name": "TpPa-1/CS aerogel",
+    "ligand_ids": [
+      1586,
+      1590,
+      1588
+    ],
+    "ligand_names": [
+      "Chitosan (CS)",
+      "TpPa-1 powder",
+      "Tp (cross-linker)"
+    ]
+  },
+  {
+    "set_index_id": 192,
+    "row_id": 1900,
+    "cof_name": "TpBD/CS aerogel",
+    "ligand_ids": [
+      1586,
+      1592,
+      1588
+    ],
+    "ligand_names": [
+      "Chitosan (CS)",
+      "TpBD powder",
+      "Tp (cross-linker)"
+    ]
+  },
+  {
+    "set_index_id": 193,
+    "row_id": 1913,
+    "cof_name": "DEG+HEP-COF",
+    "ligand_ids": [
+      534,
+      1602,
+      1603
+    ],
+    "ligand_names": [
+      "TAPP",
+      "DEG-CHO",
+      "HEP-CHO"
+    ]
+  },
+  {
+    "set_index_id": 194,
+    "row_id": 1920,
+    "cof_name": "TAPT-COF-X (End-capped)",
+    "ligand_ids": [
+      1607,
+      509,
+      1608
+    ],
+    "ligand_names": [
+      "TAPT (1,3,5-Tris(4-aminophenyl)triazine)",
+      "TFP (1,3,5-triformylphloroglucinol)",
+      "3,5-dimethylbenzaldehyde (End-capper)"
+    ]
+  },
+  {
+    "set_index_id": 195,
+    "row_id": 1940,
+    "cof_name": "TA-DH-COF/GA",
+    "ligand_ids": [
+      1625,
+      1626,
+      1627
+    ],
+    "ligand_names": [
+      "1,3,5-tris-(4-amidophenyl) triazine (TAPT)",
+      "2,5-dihydroxylterephthalaldehyde (DHTA)",
+      "Graphene Aerogel (GA)"
+    ]
+  },
+  {
+    "set_index_id": 196,
+    "row_id": 1959,
+    "cof_name": "TpPa-COF@CNT nanocables",
+    "ligand_ids": [
+      0,
+      23,
+      1644
+    ],
+    "ligand_names": [
+      "2,4,6-triformylphloroglucinol (TP)",
+      "p-phenylenediamine (PA)",
+      "carbon nanotubes (CNTs)"
+    ]
+  },
+  {
+    "set_index_id": 197,
+    "row_id": 1982,
+    "cof_name": "TPy-COF-Co/Cu",
+    "ligand_ids": [
+      1652,
+      1653,
+      1656
+    ],
+    "ligand_names": [
+      "TPy-COF",
+      "CoCl2·6H2O",
+      "CuCl2·2H2O"
+    ]
+  },
+  {
+    "set_index_id": 198,
+    "row_id": 2018,
+    "cof_name": "AO-COF",
+    "ligand_ids": [
+      1669,
+      1670,
+      1671
+    ],
+    "ligand_names": [
+      "TP-COF",
+      "Hydroxylamine hydrochloride (NH2OH·HCl)",
+      "Triethylamine (TEA)"
+    ]
+  },
+  {
+    "set_index_id": 199,
+    "row_id": 2024,
+    "cof_name": "ZnZn-Salen-COF",
+    "ligand_ids": [
+      1677,
+      1678,
+      1679
+    ],
+    "ligand_names": [
+      "5,5',5''-(1,3,5-triazine-2,4,6-triyl)tris(2-hydroxyisophthalaldehyde) (THTB)",
+      "(1R,2R)-(-)-1,2-diaminocyclohexane",
+      "Zn(ClO4)2·6H2O"
+    ]
+  },
+  {
+    "set_index_id": 200,
+    "row_id": 2025,
+    "cof_name": "Zn-Salen-COF",
+    "ligand_ids": [
+      1680,
+      1681,
+      1679
+    ],
+    "ligand_names": [
+      "1,3,5-triazine-2,4,6-tris (4'-hydroxy-5'-formylphenyl) benzene (THFB)",
+      "(1R,2R)-(-)-1,2-cyclohexanediamine",
+      "Zn(ClO4)2·6H2O"
+    ]
+  },
+  {
+    "set_index_id": 201,
+    "row_id": 2026,
+    "cof_name": "NiNi-Salen-COF",
+    "ligand_ids": [
+      1677,
+      1678,
+      1682
+    ],
+    "ligand_names": [
+      "5,5',5''-(1,3,5-triazine-2,4,6-triyl)tris(2-hydroxyisophthalaldehyde) (THTB)",
+      "(1R,2R)-(-)-1,2-diaminocyclohexane",
+      "Ni(ClO4)2·6H2O"
+    ]
+  },
+  {
+    "set_index_id": 202,
+    "row_id": 2027,
+    "cof_name": "CuCu-Salen-COF",
+    "ligand_ids": [
+      1677,
+      1678,
+      1683
+    ],
+    "ligand_names": [
+      "5,5',5''-(1,3,5-triazine-2,4,6-triyl)tris(2-hydroxyisophthalaldehyde) (THTB)",
+      "(1R,2R)-(-)-1,2-diaminocyclohexane",
+      "Cu(ClO4)2·6H2O"
+    ]
+  },
+  {
+    "set_index_id": 203,
+    "row_id": 2070,
+    "cof_name": "CoFe-COFbpda",
+    "ligand_ids": [
+      1720,
+      1721,
+      1722
+    ],
+    "ligand_names": [
+      "Bipyridine precursor",
+      "Fe precursor",
+      "Co precursor"
+    ]
+  },
+  {
+    "set_index_id": 204,
+    "row_id": 2074,
+    "cof_name": "COF-V0.2",
+    "ligand_ids": [
+      124,
+      247,
+      1725
+    ],
+    "ligand_names": [
+      "TAPB",
+      "DHTA",
+      "DVTA"
+    ]
+  },
+  {
+    "set_index_id": 205,
+    "row_id": 2075,
+    "cof_name": "COF-V0.33",
+    "ligand_ids": [
+      124,
+      247,
+      1725
+    ],
+    "ligand_names": [
+      "TAPB",
+      "DHTA",
+      "DVTA"
+    ]
+  },
+  {
+    "set_index_id": 206,
+    "row_id": 2076,
+    "cof_name": "COF-V0.5",
+    "ligand_ids": [
+      124,
+      247,
+      1725
+    ],
+    "ligand_names": [
+      "TAPB",
+      "DHTA",
+      "DVTA"
+    ]
+  },
+  {
+    "set_index_id": 207,
+    "row_id": 2077,
+    "cof_name": "COF-V0.67",
+    "ligand_ids": [
+      124,
+      247,
+      1725
+    ],
+    "ligand_names": [
+      "TAPB",
+      "DHTA",
+      "DVTA"
+    ]
+  },
+  {
+    "set_index_id": 208,
+    "row_id": 2078,
+    "cof_name": "COF-V1.0",
+    "ligand_ids": [
+      124,
+      247,
+      1725
+    ],
+    "ligand_names": [
+      "TAPB",
+      "DHTA",
+      "DVTA"
+    ]
+  },
+  {
+    "set_index_id": 209,
+    "row_id": 2170,
+    "cof_name": "COF-1",
+    "ligand_ids": [
+      1802,
+      1803,
+      1804
+    ],
+    "ligand_names": [
+      "4,4',4''-(1,3,5-Triazine-2,4,6-triyl)tris[benzaldehyde] (TFPT)",
+      "tris(4-formylphenyl)amine (Tfa)",
+      "1,4-benzenediamine (PDA)"
+    ]
+  },
+  {
+    "set_index_id": 210,
+    "row_id": 2171,
+    "cof_name": "COF-2",
+    "ligand_ids": [
+      1802,
+      1803,
+      1805
+    ],
+    "ligand_names": [
+      "4,4',4''-(1,3,5-Triazine-2,4,6-triyl)tris[benzaldehyde] (TFPT)",
+      "tris(4-formylphenyl)amine (Tfa)",
+      "2,6-naphthalenediamine (NDA)"
+    ]
+  },
+  {
+    "set_index_id": 211,
+    "row_id": 2172,
+    "cof_name": "COF-3",
+    "ligand_ids": [
+      1802,
+      1803,
+      1806
+    ],
+    "ligand_names": [
+      "4,4',4''-(1,3,5-Triazine-2,4,6-triyl)tris[benzaldehyde] (TFPT)",
+      "tris(4-formylphenyl)amine (Tfa)",
+      "2,6-anthracenediamine (AnthDA)"
+    ]
+  },
+  {
+    "set_index_id": 212,
+    "row_id": 2202,
+    "cof_name": "NiTpBpy@NCNTs",
+    "ligand_ids": [
+      301,
+      1793,
+      1819
+    ],
+    "ligand_names": [
+      "Tp (1,3,5-triformylphloroglucinol)",
+      "Bpy (2,2'-bipyridine-5,5'-diamine)",
+      "NCNTs (Amino-functionalized carbon nanotubes)"
+    ]
+  },
+  {
+    "set_index_id": 213,
+    "row_id": 2203,
+    "cof_name": "TpBpy@NCNTs",
+    "ligand_ids": [
+      301,
+      1793,
+      1819
+    ],
+    "ligand_names": [
+      "Tp (1,3,5-triformylphloroglucinol)",
+      "Bpy (2,2'-bipyridine-5,5'-diamine)",
+      "NCNTs (Amino-functionalized carbon nanotubes)"
+    ]
+  },
+  {
+    "set_index_id": 214,
+    "row_id": 2204,
+    "cof_name": "NiTpBpy@CNTs",
+    "ligand_ids": [
+      301,
+      1793,
+      1820
+    ],
+    "ligand_names": [
+      "Tp (1,3,5-triformylphloroglucinol)",
+      "Bpy (2,2'-bipyridine-5,5'-diamine)",
+      "CNTs (Carbon nanotubes)"
+    ]
+  },
+  {
+    "set_index_id": 215,
+    "row_id": 2211,
+    "cof_name": "SO3-COF@Al2O3",
+    "ligand_ids": [
+      1826,
+      17,
+      524
+    ],
+    "ligand_names": [
+      "θ-Al2O3-CHO",
+      "1,3,5-triformylphloroglucinol (TFP)",
+      "2,5-diaminobenzenesulfonic acid (Pa-SO3H)"
+    ]
+  },
+  {
+    "set_index_id": 216,
+    "row_id": 2214,
+    "cof_name": "TpBDMe COF",
+    "ligand_ids": [
+      20,
+      1460,
+      33
+    ],
+    "ligand_names": [
+      "Benzidine (Bd)",
+      "Melamine (Me)",
+      "1,3,5-Triformylphloroglucinol (Tp)"
+    ]
+  },
+  {
+    "set_index_id": 217,
+    "row_id": 2215,
+    "cof_name": "Fe-COF",
+    "ligand_ids": [
+      809,
+      1827,
+      1828
+    ],
+    "ligand_names": [
+      "TAPB (1,3,5-tris(4-aminophenyl)benzene)",
+      "BPA (2,2'-bipyridine-5,5'-dicarboxaldehyde)",
+      "Fe(OTf)2 (Iron(II) trifluoromethanesulfonate)"
+    ]
+  },
+  {
+    "set_index_id": 218,
+    "row_id": 2273,
+    "cof_name": "[E-4F-Azo]0.17-TPB-DMTP-COF",
+    "ligand_ids": [
+      230,
+      1885,
+      529
+    ],
+    "ligand_names": [
+      "TPB",
+      "4F-Azo-TP (E isomer)",
+      "DMTP"
+    ]
+  },
+  {
+    "set_index_id": 219,
+    "row_id": 2274,
+    "cof_name": "[E-4F-Azo]0.34-TPB-DMTP-COF",
+    "ligand_ids": [
+      230,
+      1885,
+      529
+    ],
+    "ligand_names": [
+      "TPB",
+      "4F-Azo-TP (E isomer)",
+      "DMTP"
+    ]
+  },
+  {
+    "set_index_id": 220,
+    "row_id": 2275,
+    "cof_name": "[E-4F-Azo]0.50-TPB-DMTP-COF",
+    "ligand_ids": [
+      230,
+      1885,
+      529
+    ],
+    "ligand_names": [
+      "TPB",
+      "4F-Azo-TP (E isomer)",
+      "DMTP"
+    ]
+  },
+  {
+    "set_index_id": 221,
+    "row_id": 2366,
+    "cof_name": "COF-OH-1",
+    "ligand_ids": [
+      1947,
+      20,
+      1948
+    ],
+    "ligand_names": [
+      "TPT-3-CHO",
+      "benzidine (BD)",
+      "3,3'-dihydroxybenzidine (DOBD)"
+    ]
+  },
+  {
+    "set_index_id": 222,
+    "row_id": 2367,
+    "cof_name": "COF-OH-2",
+    "ligand_ids": [
+      1947,
+      1949,
+      1948
+    ],
+    "ligand_names": [
+      "TPT-3-CHO",
+      "o-dianisidine (DASD)",
+      "3,3'-dihydroxybenzidine (DOBD)"
+    ]
+  },
+  {
+    "set_index_id": 223,
+    "row_id": 2368,
+    "cof_name": "iCOF-AB-1",
+    "ligand_ids": [
+      1950,
+      260,
+      261
+    ],
+    "ligand_names": [
+      "COF-OH-1",
+      "(2-bromoethyl)trimethylammonium bromide (AB)",
+      "K2CO3"
+    ]
+  },
+  {
+    "set_index_id": 224,
+    "row_id": 2369,
+    "cof_name": "iCOF-AB-2",
+    "ligand_ids": [
+      1950,
+      260,
+      261
+    ],
+    "ligand_names": [
+      "COF-OH-1",
+      "(2-bromoethyl)trimethylammonium bromide (AB)",
+      "K2CO3"
+    ]
+  },
+  {
+    "set_index_id": 225,
+    "row_id": 2382,
+    "cof_name": "MT-COF-Au",
+    "ligand_ids": [
+      1959,
+      1960,
+      1961
+    ],
+    "ligand_names": [
+      "MT-COF-S-SH",
+      "HAuCl4·3H2O",
+      "L-glutathione"
+    ]
+  },
+  {
+    "set_index_id": 226,
+    "row_id": 2401,
+    "cof_name": "COF-OH-50",
+    "ligand_ids": [
+      499,
+      1976,
+      1977
+    ],
+    "ligand_names": [
+      "TAPB (1,3,5-tris(4-aminophenyl) benzene)",
+      "DMTP (2,5-dimethoxyterephthalaldehyde)",
+      "DHTP (2,5-dihydroxyterephthalaldehyde)"
+    ]
+  },
+  {
+    "set_index_id": 227,
+    "row_id": 2402,
+    "cof_name": "COF-OH-35",
+    "ligand_ids": [
+      124,
+      529,
+      1978
+    ],
+    "ligand_names": [
+      "TAPB",
+      "DMTP",
+      "DHTP"
+    ]
+  },
+  {
+    "set_index_id": 228,
+    "row_id": 2403,
+    "cof_name": "COF-OH-100",
+    "ligand_ids": [
+      124,
+      529,
+      1978
+    ],
+    "ligand_names": [
+      "TAPB",
+      "DMTP",
+      "DHTP"
+    ]
+  },
+  {
+    "set_index_id": 229,
+    "row_id": 2404,
+    "cof_name": "COF-OMe",
+    "ligand_ids": [
+      124,
+      529,
+      1978
+    ],
+    "ligand_names": [
+      "TAPB",
+      "DMTP",
+      "DHTP"
+    ]
+  },
+  {
+    "set_index_id": 230,
+    "row_id": 2416,
+    "cof_name": "TFPA-TAPT-COF-Q",
+    "ligand_ids": [
+      963,
+      396,
+      1987
+    ],
+    "ligand_names": [
+      "tris(4-formylphenyl)amine (TFPA)",
+      "1,3,5-tris-(4-aminophenyl)triazine (TAPT)",
+      "Phenylacetylene"
+    ]
+  },
+  {
+    "set_index_id": 231,
+    "row_id": 2417,
+    "cof_name": "TFPA-TPB-COF-Q",
+    "ligand_ids": [
+      963,
+      1095,
+      1987
+    ],
+    "ligand_names": [
+      "tris(4-formylphenyl)amine (TFPA)",
+      "1,3,5-tris(4-aminophenyl)benzene (TPB)",
+      "Phenylacetylene"
+    ]
+  },
+  {
+    "set_index_id": 232,
+    "row_id": 2420,
+    "cof_name": "TFPA-TAPT-COF-Q (Gram scale)",
+    "ligand_ids": [
+      963,
+      396,
+      1987
+    ],
+    "ligand_names": [
+      "tris(4-formylphenyl)amine (TFPA)",
+      "1,3,5-tris-(4-aminophenyl)triazine (TAPT)",
+      "Phenylacetylene"
+    ]
+  },
+  {
+    "set_index_id": 233,
+    "row_id": 2433,
+    "cof_name": "NU-401",
+    "ligand_ids": [
+      2005,
+      2006,
+      2007
+    ],
+    "ligand_names": [
+      "ZrCl4",
+      "4-aminobenzoic acid",
+      "4-formylbenzoic acid"
+    ]
+  },
+  {
+    "set_index_id": 234,
+    "row_id": 2449,
+    "cof_name": "Ti-MOF@DATp",
+    "ligand_ids": [
+      33,
+      19,
+      2023
+    ],
+    "ligand_names": [
+      "1,3,5-triformylphloroglucinol (Tp)",
+      "2,6-diaminoanthraquinone (DAAQ)",
+      "Ti-MOF-Tp"
+    ]
+  },
+  {
+    "set_index_id": 235,
+    "row_id": 2452,
+    "cof_name": "33% OMe-TFB-BD COF",
+    "ligand_ids": [
+      21,
+      2026,
+      20
+    ],
+    "ligand_names": [
+      "1,3,5-triformylbenzene (TFB)",
+      "3,3'-dimethoxylbenzidine (BD-OMe)",
+      "benzidine (BD)"
+    ]
+  },
+  {
+    "set_index_id": 236,
+    "row_id": 2453,
+    "cof_name": "50% OMe-TFB-BD COF",
+    "ligand_ids": [
+      21,
+      2026,
+      20
+    ],
+    "ligand_names": [
+      "1,3,5-triformylbenzene (TFB)",
+      "3,3'-dimethoxylbenzidine (BD-OMe)",
+      "benzidine (BD)"
+    ]
+  },
+  {
+    "set_index_id": 237,
+    "row_id": 2454,
+    "cof_name": "67% OMe-TFB-BD COF",
+    "ligand_ids": [
+      21,
+      2026,
+      20
+    ],
+    "ligand_names": [
+      "1,3,5-triformylbenzene (TFB)",
+      "3,3'-dimethoxylbenzidine (BD-OMe)",
+      "benzidine (BD)"
+    ]
+  },
+  {
+    "set_index_id": 238,
+    "row_id": 2456,
+    "cof_name": "50% OMe-TFB-BD COF (Solvothermal)",
+    "ligand_ids": [
+      21,
+      2026,
+      20
+    ],
+    "ligand_names": [
+      "1,3,5-triformylbenzene (TFB)",
+      "3,3'-dimethoxylbenzidine (BD-OMe)",
+      "benzidine (BD)"
+    ]
+  },
+  {
+    "set_index_id": 239,
+    "row_id": 2463,
+    "cof_name": "RCOFs-DDS",
+    "ligand_ids": [
+      33,
+      2031,
+      2032
+    ],
+    "ligand_names": [
+      "1,3,5-triformylphloroglucinol (Tp)",
+      "4,4'-ethylenedianiline (EDA)",
+      "4,4'-diaminodiphenyldisulfide (DDS)"
+    ]
+  },
+  {
+    "set_index_id": 240,
+    "row_id": 2469,
+    "cof_name": "ZCS-COF-10",
+    "ligand_ids": [
+      2033,
+      2034,
+      2035
+    ],
+    "ligand_names": [
+      "4,6-trihydroxybenzene-1,3,5-tricarbaldehyde (THTA)",
+      "benzene-1,4-diamine (BDA)",
+      "amine-Zn0.4Cd0.6S (ZCS)"
+    ]
+  },
+  {
+    "set_index_id": 241,
+    "row_id": 2470,
+    "cof_name": "ZCS-COF-20",
+    "ligand_ids": [
+      2033,
+      2034,
+      2035
+    ],
+    "ligand_names": [
+      "4,6-trihydroxybenzene-1,3,5-tricarbaldehyde (THTA)",
+      "benzene-1,4-diamine (BDA)",
+      "amine-Zn0.4Cd0.6S (ZCS)"
+    ]
+  },
+  {
+    "set_index_id": 242,
+    "row_id": 2471,
+    "cof_name": "ZCS-COF-30",
+    "ligand_ids": [
+      2033,
+      2034,
+      2035
+    ],
+    "ligand_names": [
+      "4,6-trihydroxybenzene-1,3,5-tricarbaldehyde (THTA)",
+      "benzene-1,4-diamine (BDA)",
+      "amine-Zn0.4Cd0.6S (ZCS)"
+    ]
+  },
+  {
+    "set_index_id": 243,
+    "row_id": 2472,
+    "cof_name": "ZCS-COF-40",
+    "ligand_ids": [
+      2033,
+      2034,
+      2035
+    ],
+    "ligand_names": [
+      "4,6-trihydroxybenzene-1,3,5-tricarbaldehyde (THTA)",
+      "benzene-1,4-diamine (BDA)",
+      "amine-Zn0.4Cd0.6S (ZCS)"
+    ]
+  },
+  {
+    "set_index_id": 244,
+    "row_id": 2473,
+    "cof_name": "ZCS-P (Amorphous TpPa polymer hybrid)",
+    "ligand_ids": [
+      2033,
+      2034,
+      2035
+    ],
+    "ligand_names": [
+      "4,6-trihydroxybenzene-1,3,5-tricarbaldehyde (THTA)",
+      "benzene-1,4-diamine (BDA)",
+      "amine-Zn0.4Cd0.6S (ZCS)"
+    ]
+  },
+  {
+    "set_index_id": 245,
+    "row_id": 2481,
+    "cof_name": "TpPa-(OH)2/rGO-1",
+    "ligand_ids": [
+      2041,
+      2043,
+      2044
+    ],
+    "ligand_names": [
+      "1,3,5-triformylresorcinol (Tp)",
+      "2,5-diamino-1,4-dihydroxybenzene dihydrochloride",
+      "Graphene oxide (GO)"
+    ]
+  },
+  {
+    "set_index_id": 246,
+    "row_id": 2482,
+    "cof_name": "TpPa-(OH)2/rGO-2",
+    "ligand_ids": [
+      2041,
+      2043,
+      2044
+    ],
+    "ligand_names": [
+      "1,3,5-triformylresorcinol (Tp)",
+      "2,5-diamino-1,4-dihydroxybenzene dihydrochloride",
+      "Graphene oxide (GO)"
+    ]
+  },
+  {
+    "set_index_id": 247,
+    "row_id": 2483,
+    "cof_name": "TpPa-(OH)2/rGO-3",
+    "ligand_ids": [
+      2041,
+      2043,
+      2044
+    ],
+    "ligand_names": [
+      "1,3,5-triformylresorcinol (Tp)",
+      "2,5-diamino-1,4-dihydroxybenzene dihydrochloride",
+      "Graphene oxide (GO)"
+    ]
+  },
+  {
+    "set_index_id": 248,
+    "row_id": 2484,
+    "cof_name": "TpPa-(OH)2/rGO-4",
+    "ligand_ids": [
+      2041,
+      2043,
+      2044
+    ],
+    "ligand_names": [
+      "1,3,5-triformylresorcinol (Tp)",
+      "2,5-diamino-1,4-dihydroxybenzene dihydrochloride",
+      "Graphene oxide (GO)"
+    ]
+  },
+  {
+    "set_index_id": 249,
+    "row_id": 2485,
+    "cof_name": "TpPa-(OH)2/rGO-5",
+    "ligand_ids": [
+      2041,
+      2043,
+      2044
+    ],
+    "ligand_names": [
+      "1,3,5-triformylresorcinol (Tp)",
+      "2,5-diamino-1,4-dihydroxybenzene dihydrochloride",
+      "Graphene oxide (GO)"
+    ]
+  },
+  {
+    "set_index_id": 250,
+    "row_id": 2489,
+    "cof_name": "Tb-BD/rGO",
+    "ligand_ids": [
+      2048,
+      2049,
+      2044
+    ],
+    "ligand_names": [
+      "1,3,5-benzenetricarboxaldehyde (Tb)",
+      "4,4'-diaminobiphenyl (BD)",
+      "Graphene oxide (GO)"
+    ]
+  },
+  {
+    "set_index_id": 251,
+    "row_id": 2493,
+    "cof_name": "ZnFe2O4-seed@TpTt-COF",
+    "ligand_ids": [
+      2053,
+      2054,
+      2055
+    ],
+    "ligand_names": [
+      "Tp (2,4,6-triformylphloroglucinolaldehyde)",
+      "Tt (1,3,5-triazine-2,4,6-triamine)",
+      "ZnFe2O4-seed (precursor)"
+    ]
+  },
+  {
+    "set_index_id": 252,
+    "row_id": 2494,
+    "cof_name": "ZnFe2O4@TpTt",
+    "ligand_ids": [
+      2053,
+      2054,
+      2056
+    ],
+    "ligand_names": [
+      "Tp (2,4,6-triformylphloroglucinolaldehyde)",
+      "Tt (1,3,5-triazine-2,4,6-triamine)",
+      "Pure ZnFe2O4 core (precursor)"
+    ]
+  },
+  {
+    "set_index_id": 253,
+    "row_id": 2499,
+    "cof_name": "PMDA-NiPc@Si",
+    "ligand_ids": [
+      2058,
+      542,
+      2059
+    ],
+    "ligand_names": [
+      "4-Aminophthalocyanine nickel (PcNi(NH2)4)",
+      "Pyromellitic dianhydride (PMDA)",
+      "nano Si"
+    ]
+  },
+  {
+    "set_index_id": 254,
+    "row_id": 2500,
+    "cof_name": "PMDA-NiPc@Si-1",
+    "ligand_ids": [
+      2058,
+      542,
+      2059
+    ],
+    "ligand_names": [
+      "4-Aminophthalocyanine nickel (PcNi(NH2)4)",
+      "Pyromellitic dianhydride (PMDA)",
+      "nano Si"
+    ]
+  },
+  {
+    "set_index_id": 255,
+    "row_id": 2501,
+    "cof_name": "PMDA-NiPc@Si-2",
+    "ligand_ids": [
+      2058,
+      542,
+      2059
+    ],
+    "ligand_names": [
+      "4-Aminophthalocyanine nickel (PcNi(NH2)4)",
+      "Pyromellitic dianhydride (PMDA)",
+      "nano Si"
+    ]
+  },
+  {
+    "set_index_id": 256,
+    "row_id": 2503,
+    "cof_name": "PL-COF-1 (1.2 eq Bp, Sc(OTf)3 catalyzed)",
+    "ligand_ids": [
+      2060,
+      988,
+      2061
+    ],
+    "ligand_names": [
+      "[5,10,15,20-tetrakis(4-aminophenyl)porphinato]cobalt (Co(TAP))",
+      "1,4-benzenedicarboxaldehyde (BDA)",
+      "4,4'-bipyridine (Bp)"
+    ]
+  },
+  {
+    "set_index_id": 257,
+    "row_id": 2504,
+    "cof_name": "PL-COF-2 (1.2 eq Pz, Sc(OTf)3 catalyzed)",
+    "ligand_ids": [
+      2060,
+      988,
+      2062
+    ],
+    "ligand_names": [
+      "[5,10,15,20-tetrakis(4-aminophenyl)porphinato]cobalt (Co(TAP))",
+      "1,4-benzenedicarboxaldehyde (BDA)",
+      "Pyrazine (Pz)"
+    ]
+  },
+  {
+    "set_index_id": 258,
+    "row_id": 2506,
+    "cof_name": "PL-COF-1 (AcOH catalyzed, 1.0 eq Bp)",
+    "ligand_ids": [
+      2060,
+      988,
+      2061
+    ],
+    "ligand_names": [
+      "[5,10,15,20-tetrakis(4-aminophenyl)porphinato]cobalt (Co(TAP))",
+      "1,4-benzenedicarboxaldehyde (BDA)",
+      "4,4'-bipyridine (Bp)"
+    ]
+  },
+  {
+    "set_index_id": 259,
+    "row_id": 2507,
+    "cof_name": "PL-COF-2 (AcOH catalyzed, 0.5 eq Pz)",
+    "ligand_ids": [
+      2060,
+      988,
+      2062
+    ],
+    "ligand_names": [
+      "[5,10,15,20-tetrakis(4-aminophenyl)porphinato]cobalt (Co(TAP))",
+      "1,4-benzenedicarboxaldehyde (BDA)",
+      "Pyrazine (Pz)"
+    ]
+  },
+  {
+    "set_index_id": 260,
+    "row_id": 2532,
+    "cof_name": "APCOF-1",
+    "ligand_ids": [
+      2079,
+      78,
+      2086
+    ],
+    "ligand_names": [
+      "Tetrakis(4-aminophenyl)porphyrin (TAPP)",
+      "Terephthalaldehyde (TA)",
+      "Diphenyl phosphite"
+    ]
+  },
+  {
+    "set_index_id": 261,
+    "row_id": 2533,
+    "cof_name": "APCOF-2",
+    "ligand_ids": [
+      66,
+      78,
+      2086
+    ],
+    "ligand_names": [
+      "1,3,5-tris(4-aminophenyl)benzene (TAPB)",
+      "Terephthalaldehyde (TA)",
+      "Diphenyl phosphite"
+    ]
+  },
+  {
+    "set_index_id": 262,
+    "row_id": 2546,
+    "cof_name": "AICOF-1",
+    "ligand_ids": [
+      66,
+      2096,
+      2097
+    ],
+    "ligand_names": [
+      "1,3,5-tris(4-aminophenyl)benzene (TAPB)",
+      "1,3,5-benzenetricarboxaldehyde (BTCA)",
+      "1,3,5-benzenetricarbonyl chloride (BTCC)"
+    ]
+  },
+  {
+    "set_index_id": 263,
+    "row_id": 2548,
+    "cof_name": "AICOF-2",
+    "ligand_ids": [
+      2099,
+      2096,
+      2097
+    ],
+    "ligand_names": [
+      "2,4,6-tris(4-aminophenyl)-1,3,5-triazine (TPT)",
+      "1,3,5-benzenetricarboxaldehyde (BTCA)",
+      "1,3,5-benzenetricarbonyl chloride (BTCC)"
+    ]
+  },
+  {
+    "set_index_id": 264,
+    "row_id": 2550,
+    "cof_name": "AICOF-3",
+    "ligand_ids": [
+      2101,
+      78,
+      2102
+    ],
+    "ligand_names": [
+      "4,4',4'',4'''-(pyrene-1,3,6,8-tetrayl)tetraaniline (PyTTA)",
+      "Terephthalaldehyde (TA)",
+      "Terephthaloyl chloride (TC)"
+    ]
+  },
+  {
+    "set_index_id": 265,
+    "row_id": 2552,
+    "cof_name": "AICOF-4",
+    "ligand_ids": [
+      2101,
+      1395,
+      2104
+    ],
+    "ligand_names": [
+      "4,4',4'',4'''-(pyrene-1,3,6,8-tetrayl)tetraaniline (PyTTA)",
+      "4,4'-biphenyldicarboxaldehyde (BPDA)",
+      "4,4'-biphenyldicarbonyl chloride (BPDC)"
+    ]
+  },
+  {
+    "set_index_id": 266,
+    "row_id": 2554,
+    "cof_name": "AICOF-5",
+    "ligand_ids": [
+      543,
+      78,
+      2102
+    ],
+    "ligand_names": [
+      "tris(4-aminophenyl)amine (TAPA)",
+      "Terephthalaldehyde (TA)",
+      "Terephthaloyl chloride (TC)"
+    ]
+  },
+  {
+    "set_index_id": 267,
+    "row_id": 2556,
+    "cof_name": "AICOF-6",
+    "ligand_ids": [
+      2107,
+      78,
+      2102
+    ],
+    "ligand_names": [
+      "tetrakis(4-aminophenyl)ethene (TPE)",
+      "Terephthalaldehyde (TA)",
+      "Terephthaloyl chloride (TC)"
+    ]
+  },
+  {
+    "set_index_id": 268,
+    "row_id": 2558,
+    "cof_name": "AICOF-7",
+    "ligand_ids": [
+      2109,
+      2096,
+      2097
+    ],
+    "ligand_names": [
+      "Benzidine (Ben)",
+      "1,3,5-benzenetricarboxaldehyde (BTCA)",
+      "1,3,5-benzenetricarbonyl chloride (BTCC)"
+    ]
+  },
+  {
+    "set_index_id": 269,
+    "row_id": 2560,
+    "cof_name": "AICOF-8",
+    "ligand_ids": [
+      2111,
+      78,
+      2102
+    ],
+    "ligand_names": [
+      "4',5'-bis(4-aminophenyl)-[1,1':2',1''-terphenyl]-4,4''-diamine (BATPD)",
+      "Terephthalaldehyde (TA)",
+      "Terephthaloyl chloride (TC)"
+    ]
+  },
+  {
+    "set_index_id": 270,
+    "row_id": 2562,
+    "cof_name": "AICOF-9",
+    "ligand_ids": [
+      66,
+      78,
+      2102
+    ],
+    "ligand_names": [
+      "1,3,5-tris(4-aminophenyl)benzene (TAPB)",
+      "Terephthalaldehyde (TA)",
+      "Terephthaloyl chloride (TC)"
+    ]
+  },
+  {
+    "set_index_id": 271,
+    "row_id": 2600,
+    "cof_name": "PorSe-CuPt",
+    "ligand_ids": [
+      2136,
+      2137,
+      2138
+    ],
+    "ligand_names": [
+      "L-Por-Cu",
+      "L-Por-Pt",
+      "L-Se"
+    ]
+  },
+  {
+    "set_index_id": 272,
+    "row_id": 2632,
+    "cof_name": "DI-NM/Pt@TpBpy-COF",
+    "ligand_ids": [
+      217,
+      333,
+      2164
+    ],
+    "ligand_names": [
+      "Tp",
+      "Bpy",
+      "DI-NM"
+    ]
+  },
+  {
+    "set_index_id": 273,
+    "row_id": 2633,
+    "cof_name": "DE-NM/Pt@TpBpy-COF",
+    "ligand_ids": [
+      217,
+      333,
+      2165
+    ],
+    "ligand_names": [
+      "Tp",
+      "Bpy",
+      "DE-NM"
+    ]
+  },
+  {
+    "set_index_id": 274,
+    "row_id": 2634,
+    "cof_name": "OC-NM/Pt@TpBpy-COF",
+    "ligand_ids": [
+      217,
+      333,
+      2166
+    ],
+    "ligand_names": [
+      "Tp",
+      "Bpy",
+      "OC-NM"
+    ]
+  },
+  {
+    "set_index_id": 275,
+    "row_id": 2643,
+    "cof_name": "COF-QL-Ph (Powder)",
+    "ligand_ids": [
+      2173,
+      1987,
+      464
+    ],
+    "ligand_names": [
+      "COF-Imine (Powder)",
+      "phenylacetylene",
+      "chloranil"
+    ]
+  },
+  {
+    "set_index_id": 276,
+    "row_id": 2645,
+    "cof_name": "COF-QL-Ph Nanofiber (Hollow)",
+    "ligand_ids": [
+      2174,
+      1987,
+      464
+    ],
+    "ligand_names": [
+      "COF-Imine Nanofiber (Hollow)",
+      "phenylacetylene",
+      "chloranil"
+    ]
+  },
+  {
+    "set_index_id": 277,
+    "row_id": 2677,
+    "cof_name": "COFilm/R-BBNA",
+    "ligand_ids": [
+      2195,
+      314,
+      2196
+    ],
+    "ligand_names": [
+      "terephthalaldehyde (DFB)",
+      "2,4,6-trimethyl-1,3,5-triazine (TMT)",
+      "R-BBNA"
+    ]
+  },
+  {
+    "set_index_id": 278,
+    "row_id": 2689,
+    "cof_name": "TpPa-SCOF-An",
+    "ligand_ids": [
+      458,
+      503,
+      2206
+    ],
+    "ligand_names": [
+      "Tp (2,4,6-triformylphloroglucinol)",
+      "Pa (p-phenylenediamine)",
+      "Aniline (regulator)"
+    ]
+  },
+  {
+    "set_index_id": 279,
+    "row_id": 2691,
+    "cof_name": "TpPa-COF-An",
+    "ligand_ids": [
+      458,
+      503,
+      2206
+    ],
+    "ligand_names": [
+      "Tp (2,4,6-triformylphloroglucinol)",
+      "Pa (p-phenylenediamine)",
+      "Aniline (regulator)"
+    ]
+  },
+  {
+    "set_index_id": 280,
+    "row_id": 2692,
+    "cof_name": "TpPy-SCOF-An",
+    "ligand_ids": [
+      458,
+      2207,
+      2206
+    ],
+    "ligand_names": [
+      "Tp (2,4,6-triformylphloroglucinol)",
+      "Py (2,5-diaminopyridine)",
+      "Aniline (regulator)"
+    ]
+  },
+  {
+    "set_index_id": 281,
+    "row_id": 2694,
+    "cof_name": "TpPy-COF-An",
+    "ligand_ids": [
+      458,
+      2207,
+      2206
+    ],
+    "ligand_names": [
+      "Tp (2,4,6-triformylphloroglucinol)",
+      "Py (2,5-diaminopyridine)",
+      "Aniline (regulator)"
+    ]
+  },
+  {
+    "set_index_id": 282,
+    "row_id": 2696,
+    "cof_name": "TpBD-SCOF-An",
+    "ligand_ids": [
+      458,
+      1591,
+      2206
+    ],
+    "ligand_names": [
+      "Tp (2,4,6-triformylphloroglucinol)",
+      "BD (benzidine)",
+      "Aniline (regulator)"
+    ]
+  },
+  {
+    "set_index_id": 283,
+    "row_id": 2698,
+    "cof_name": "TpBD-COF-An",
+    "ligand_ids": [
+      458,
+      1591,
+      2206
+    ],
+    "ligand_names": [
+      "Tp (2,4,6-triformylphloroglucinol)",
+      "BD (benzidine)",
+      "Aniline (regulator)"
+    ]
+  }
+]
