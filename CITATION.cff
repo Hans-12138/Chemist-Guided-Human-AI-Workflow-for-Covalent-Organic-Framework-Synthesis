@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated JACS paper below."
+title: "Chemist-Guided Human-AI Workflow for Covalent Organic Framework Synthesis"
+type: software
+authors:
+  - family-names: "Chen"
+    given-names: "Lihan"
+  - family-names: "Lu"
+    given-names: "Zhen"
+  - family-names: "Chen"
+    given-names: "Lin"
+  - family-names: "Hou"
+    given-names: "Linxi"
+  - family-names: "Zhang"
+    given-names: "Dong"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Chen"
+      given-names: "Lihan"
+    - family-names: "Lu"
+      given-names: "Zhen"
+    - family-names: "Chen"
+      given-names: "Lin"
+    - family-names: "Hou"
+      given-names: "Linxi"
+    - family-names: "Zhang"
+      given-names: "Dong"
+  title: "Chemist-Guided Human-AI Workflow for Covalent Organic Framework Synthesis"
+  journal: "Journal of the American Chemical Society"
+  year: 2026
+  volume: 148
+  issue: 7
+  start: 7440
+  end: 7449
+  doi: 10.1021/jacs.5c20068
